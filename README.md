@@ -4,11 +4,11 @@
 
 [This is my submission for OpenAI's City of Z competition](https://openai.com/openai-to-z-challenge/)
 
-You can play around with the maps of all the cool things I found and the data I collected here: https://city-of-z.com/  
 If you wish to read a comprehensive writeup, go here: https://city-of-z.com/paper.pdf
 
 This repo contains the code and instructions to replicate the data sources I used and run the evals.
 
+If you get stuck at any step, please send me an email (sarhaangulati737@gmail.com) and I'll get back to you asap!
 If you want to build all the data sources yourself from scratch, you can do so by following the instructions below. However, if you want to just run the evals, please send me an email (sarhaangulati737@gmail.com) and I'll send you credentials for my R2 bucket. Its roughly ~400GB of data so its not feasible to share it here.
 
 ## Setup
@@ -87,7 +87,7 @@ uv run -m src.evals.lidar.stats --exp_num 3 --exp_type eval
 uv run -m src.evals.lidar.run_eval --exp_num 4 --exp_type test
 ```
 
-Now, if you wish to get the stats for these runs, please run the following (this will also create a geojson file with the results stored in `data/evals/lidar_eval_output_test_4.geojson`):
+Now, please run this to get the stats for our run, a geojson file with the results stored in `data/evals/lidar_eval_output_test_4.geojson` and a report json file with the results stored in `data/evals/report_lidar_eval_output_test_4.json`. We submit both these files to the competition.
 
 ```bash
 uv run -m src.evals.lidar.stats --exp_num 4 --exp_type test

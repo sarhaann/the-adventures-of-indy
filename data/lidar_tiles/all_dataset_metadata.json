@@ -1,0 +1,16 @@
+{
+  "cms": "https://daac.ornl.gov/CMS/guides/LiDAR_Forest_Inventory_Brazil.html",
+  "fguiana_nouragues": "https://catalogue.ceda.ac.uk/uuid/7bdc5bfc06264802be34f918597150e8/",
+  "fguiana_paracou": "https://catalogue.ceda.ac.uk/uuid/1d554ff41c104491ac3661c6f6f52aab/",
+  "Keller_Batistella_Gorgens_250": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/QIKEGD",
+  "Keller_Batistella_Gorgens_1038": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/ZHEMDY",
+  "Keller_Batistella_Gorgens_765": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi%3A10.48432%2FTMJT7O&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=name&fileSortOrder=desc",
+  "Keller_Batistella_Gorgens_2400": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi%3A10.48432%2FUT9GOG&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=name&fileSortOrder=desc",
+  "Lefsky_Saleska_Shimabukuro": "https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1515",
+  "Lefsky_Saleska_Shimabukuro_Para": "https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1514",
+  "Longo_Keller_Dos-santos_Leitold_Pinagé_Baccini_Saatchi_Nogueira_Batistella_Morton_176.2": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/I98OSL",
+  "Longo_Keller_Dos-santos_Leitold_Pinagé_Baccini_Saatchi_Nogueira_Batistella_Morton_223.5": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/RW3KGS",
+  "Longo_Keller_Dos-santos_Leitold_Pinagé_Baccini_Saatchi_Nogueira_Batistella_Morton_374.7": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/L0IRCB",
+  "Longo_Keller_Dos-santos_Leitold_Pinagé_Baccini_Saatchi_Nogueira_Batistella_Morton_586.32": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi%3A10.48432%2FVBEGLK&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=name&fileSortOrder=desc",
+  "Santos_Keller_Batistella_244": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/9OUYDX"
+}

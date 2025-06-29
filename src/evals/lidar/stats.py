@@ -190,7 +190,12 @@ def main(exp_num: int = 0, exp_type: str = "eval") -> None:  # noqa: D401
     # ----------------------------------------------------------------------
     # Write GeoJSON output
     # ----------------------------------------------------------------------
-    _write_geojson(stats, exp_num=exp_num, exp_type=exp_type)
+    features = _write_geojson(stats, exp_num=exp_num, exp_type=exp_type) or []
+
+    # ----------------------------------------------------------------------
+    # Write concise report JSON (confidence_score > 5, sorted desc)
+    # ----------------------------------------------------------------------
+    _write_report_json(features, exp_num=exp_num, exp_type=exp_type)
 
 
 # ---------------------------------------------------------------------------
@@ -198,7 +203,9 @@ def main(exp_num: int = 0, exp_type: str = "eval") -> None:  # noqa: D401
 # ---------------------------------------------------------------------------
 
 
-def _write_geojson(stats: Dict[str, Any], exp_num: int, exp_type: str) -> None:
+def _write_geojson(
+    stats: Dict[str, Any], exp_num: int, exp_type: str
+) -> list[dict] | None:
     """Create a GeoJSON FeatureCollection with evaluation metadata.
 
     Each feature from the master LiDAR-tile catalogue is matched by its
@@ -223,7 +230,7 @@ def _write_geojson(stats: Dict[str, Any], exp_num: int, exp_type: str) -> None:
         print(
             f"[red]Could not import _get_all_lidar_tiles – skipping GeoJSON generation: {e}[/red]"
         )
-        return
+        return None
 
     # Build lookup table: tile_key → feature (copy to avoid in-place mutation)
     try:
@@ -232,7 +239,19 @@ def _write_geojson(stats: Dict[str, Any], exp_num: int, exp_type: str) -> None:
         print(
             f"[red]Failed to obtain LiDAR tiles – skipping GeoJSON generation: {e}[/red]"
         )
-        return
+        return None
+
+    # ------------------------------------------------------------------
+    # Load dataset metadata to map tile keys to their source URL
+    # ------------------------------------------------------------------
+    try:
+        with open("data/lidar_tiles/all_dataset_metadata.json", "r") as f:
+            dataset_meta: Dict[str, str] = json.load(f)
+    except FileNotFoundError:
+        dataset_meta = {}
+        print(
+            "[yellow]Warning: dataset metadata file not found – 'dataset_url' will be missing.[/yellow]"
+        )
 
     from copy import deepcopy
 
@@ -262,6 +281,7 @@ def _write_geojson(stats: Dict[str, Any], exp_num: int, exp_type: str) -> None:
                     "confidence_score": info.get("confidence_score"),
                     "tokens": info.get("tokens"),
                     "subset": subset,
+                    "dataset_url": dataset_meta.get(key.split("/", 1)[0]),
                 }
             )
             feature["properties"] = props
@@ -278,6 +298,64 @@ def _write_geojson(stats: Dict[str, Any], exp_num: int, exp_type: str) -> None:
         )
     except Exception as e:
         print(f"[red]Failed to write GeoJSON output: {e}[/red]")
+
+    return output_features
+
+
+# ---------------------------------------------------------------------------
+# Helper: write concise report JSON
+# ---------------------------------------------------------------------------
+
+
+def _write_report_json(
+    features: List[dict], *, exp_num: int, exp_type: str, threshold: float = 5.0
+) -> None:
+    """Write a simplified JSON report for high-confidence tiles.
+
+    Parameters
+    ----------
+    features
+        List of GeoJSON Features as returned by `_write_geojson`.
+    exp_num, exp_type
+        Identifiers used to construct the output filename.
+    threshold
+        Minimum `confidence_score` required for inclusion.
+    """
+
+    # Filter and sort features -------------------------------------------
+    high_conf = [
+        f
+        for f in features
+        if (f.get("properties", {}).get("confidence_score") or 0) > threshold
+    ]
+
+    high_conf.sort(
+        key=lambda f: f["properties"].get("confidence_score", 0), reverse=True
+    )
+
+    entries: List[Dict[str, Any]] = []
+    for f in high_conf:
+        props = f.get("properties", {})
+        key_val = props.get("key", "")
+        entries.append(
+            {
+                "dataset_url": props.get("dataset_url"),
+                "r2_key": key_val,
+                "tile_id": key_val.rsplit("/", 1)[-1],
+                "confidence_score": props.get("confidence_score"),
+                "analysis": props.get("analysis"),
+            }
+        )
+
+    output_path = Path(f"data/evals/report_lidar_eval_output_{exp_type}_{exp_num}.json")
+    try:
+        with output_path.open("w") as f:
+            json.dump(entries, f, indent=2)
+        print(
+            f"[green]→ Report written to {output_path} ({len(entries):,} entries).[/green]"
+        )
+    except Exception as e:
+        print(f"[red]Failed to write report JSON: {e}[/red]")
 
 
 if __name__ == "__main__":

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import hashlib
 import json
 from pathlib import Path
 from typing import Any, Dict, List
@@ -344,6 +345,8 @@ def _write_report_json(
                 "tile_id": key_val.rsplit("/", 1)[-1],
                 "confidence_score": props.get("confidence_score"),
                 "analysis": props.get("analysis"),
+                # generate a unique id for the tile, hash the key, only use the first 8 characters
+                "id": hashlib.sha256(key_val.encode()).hexdigest()[:8],
             }
         )
 

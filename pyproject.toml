@@ -5,6 +5,7 @@ description = "Indy: Evals and AI Agents to search the Amazon for lost civilizat
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "aiohttp>=3.12.13",
     "boto3>=1.38.43",
     "earthengine-api>=1.5.21",
     "fastapi[all]>=0.115.13",

@@ -1,0 +1,1183 @@
+{
+  "type": "FeatureCollection",
+  "name": "iriarte",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "Site Name": "Aparecida do Norte I",
+        "x (UTM 19S)": 705710,
+        "y (UTM 19S)": 8924021,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Aparecida do Norte I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.1248599754298, -9.728638276917012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 2,
+        "Site Name": "Caboquim",
+        "x (UTM 19S)": 700331,
+        "y (UTM 19S)": 8915044,
+        "Classification": "Circular",
+        "LIDAR": "Yes",
+        "Number of mounds": 26.0,
+        "Mound shape": "Elongated and square",
+        "Entrance shape": "L",
+        "Paired": "Superimposed",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Caboquim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.173431932532765, -9.810056524098782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 3,
+        "Site Name": "Coqueiral",
+        "x (UTM 19S)": 680928,
+        "y (UTM 19S)": 8905338,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": 10.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Coqueiral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.349854075023202, -9.898714286061022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "Site Name": "Dois círculos IV",
+        "x (UTM 19S)": 647270,
+        "y (UTM 19S)": 8871232,
+        "Classification": "Rectangular",
+        "LIDAR": "Yes",
+        "Number of mounds": 16.0,
+        "Mound shape": "Elongated and square",
+        "Entrance shape": null,
+        "Paired": "Twins",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Dois círculos IV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.655491083529753, -10.208469127347787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 5,
+        "Site Name": "Dois círculos V",
+        "x (UTM 19S)": 647803,
+        "y (UTM 19S)": 8871561,
+        "Classification": "Irregular",
+        "LIDAR": "Yes",
+        "Number of mounds": 32.0,
+        "Mound shape": "Elongated and square",
+        "Entrance shape": null,
+        "Paired": "Twin/Superimposed",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Dois círculos V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.650638499957367, -10.205474246796404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 6,
+        "Site Name": "Dona Maria IV",
+        "x (UTM 19S)": 698270,
+        "y (UTM 19S)": 8920257,
+        "Classification": "Circular",
+        "LIDAR": "Yes",
+        "Number of mounds": 12.0,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "Twins",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Dona Maria IV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.192472004080201, -9.763030890422023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 7,
+        "Site Name": "Dona Maria V",
+        "x (UTM 19S)": 697792,
+        "y (UTM 19S)": 8919995,
+        "Classification": "Circular",
+        "LIDAR": "Yes",
+        "Number of mounds": 16.0,
+        "Mound shape": "Elongated and square",
+        "Entrance shape": null,
+        "Paired": "Twins",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Dona Maria V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.196815450545884, -9.765422517790448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 8,
+        "Site Name": "Estrela do Norte I",
+        "x (UTM 19S)": 653169,
+        "y (UTM 19S)": 8877129,
+        "Classification": "Circular",
+        "LIDAR": "Yes",
+        "Number of mounds": 12.0,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "Twins",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Estrela do Norte I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.601878968736713, -10.154923528864121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 9,
+        "Site Name": "Estrela do Norte II",
+        "x (UTM 19S)": 653379,
+        "y (UTM 19S)": 8878115,
+        "Classification": "Irregular",
+        "LIDAR": "Yes",
+        "Number of mounds": 12.0,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "Twins",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Estrela do Norte II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.600001248290624, -10.146000162195847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 10,
+        "Site Name": "Fazenda Boa Esperança",
+        "x (UTM 19S)": 700753,
+        "y (UTM 19S)": 8911712,
+        "Classification": "Circular",
+        "LIDAR": "Yes",
+        "Number of mounds": 14.0,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Fazenda Boa Esperança"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.169419965448881, -9.840157132314578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 11,
+        "Site Name": "Fazenda Iquiri II",
+        "x (UTM 19S)": 674027,
+        "y (UTM 19S)": 8886364,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 19.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "East/West",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Fazenda Iquiri II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.411945692631207, -10.070562998932939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 12,
+        "Site Name": "Fazenda Tocantins",
+        "x (UTM 19S)": 699646,
+        "y (UTM 19S)": 8905612,
+        "Classification": "Circular",
+        "LIDAR": "Yes",
+        "Number of mounds": 18.0,
+        "Mound shape": null,
+        "Entrance shape": "L",
+        "Paired": "No",
+        "Main avenue directions": "East/West",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Fazenda Tocantins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.179207764786028, -9.895355951985236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 13,
+        "Site Name": "Fonte Boa II",
+        "x (UTM 19S)": 684072,
+        "y (UTM 19S)": 8886375,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Fonte Boa II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.320308724678966, -10.070010594761571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 14,
+        "Site Name": "Gavião VI",
+        "x (UTM 19S)": 649260,
+        "y (UTM 19S)": 8836229,
+        "Classification": "Rectangular",
+        "LIDAR": "No",
+        "Number of mounds": 5.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "Twins",
+        "Main avenue directions": "Sudeste",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Gavião VI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.635957820468477, -10.524883738080403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 15,
+        "Site Name": "Gavião VII",
+        "x (UTM 19S)": 649417,
+        "y (UTM 19S)": 8836048,
+        "Classification": "Rectangular",
+        "LIDAR": "No",
+        "Number of mounds": 7.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "Twins",
+        "Main avenue directions": "North",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Gavião VII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.63451612577532, -10.52651410780749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 16,
+        "Site Name": "Gavião VIII",
+        "x (UTM 19S)": 650216,
+        "y (UTM 19S)": 8836814,
+        "Classification": "Rectangular",
+        "LIDAR": "No",
+        "Number of mounds": 6.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Gavião VIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.627246347945913, -10.519556643253553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 17,
+        "Site Name": "Independência",
+        "x (UTM 19S)": 655462,
+        "y (UTM 19S)": 8878437,
+        "Classification": "Irregular",
+        "LIDAR": "Yes",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Independência"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.58100505834652, -10.143007099151935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 18,
+        "Site Name": "Karina",
+        "x (UTM 19S)": 658805,
+        "y (UTM 19S)": 8882164,
+        "Classification": "Circular",
+        "LIDAR": "Yes",
+        "Number of mounds": 11.0,
+        "Mound shape": "Elongated and square",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Karina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.55064946565804, -10.109175805398737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 19,
+        "Site Name": "Lidar",
+        "x (UTM 19S)": 676417,
+        "y (UTM 19S)": 8906822,
+        "Classification": "Irregular",
+        "LIDAR": "Yes",
+        "Number of mounds": 3.0,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Lidar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.391050401966169, -9.885496837647201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 20,
+        "Site Name": "Montículos Plácido",
+        "x (UTM 19S)": 677412,
+        "y (UTM 19S)": 8868019,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 20.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "East/West",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Montículos Plácido"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.380230619767559, -10.236267690745718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 21,
+        "Site Name": "Nakahara 79",
+        "x (UTM 19S)": 698560,
+        "y (UTM 19S)": 8879231,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.187785419044587, -10.133894135025953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 22,
+        "Site Name": "Nakahara 88 II",
+        "x (UTM 19S)": 673493,
+        "y (UTM 19S)": 8852425,
+        "Classification": "Rectangular",
+        "LIDAR": "No",
+        "Number of mounds": 8.0,
+        "Mound shape": "Elongated and square",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 88 II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.415296917651091, -10.377427974722307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 23,
+        "Site Name": "Nakahara 104",
+        "x (UTM 19S)": 657597,
+        "y (UTM 19S)": 8857397,
+        "Classification": "Rectangular",
+        "LIDAR": "No",
+        "Number of mounds": 8.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": "L",
+        "Paired": "No",
+        "Main avenue directions": "East/West",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.560664380570643, -10.333157021822547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 24,
+        "Site Name": "Nakahara 136",
+        "x (UTM 19S)": 590803,
+        "y (UTM 19S)": 8853516,
+        "Classification": "Rectangular",
+        "LIDAR": "No",
+        "Number of mounds": 10.0,
+        "Mound shape": "Elongated and square",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.170542182867678, -10.370399987314395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 25,
+        "Site Name": "Nakahara 166",
+        "x (UTM 19S)": 649418,
+        "y (UTM 19S)": 8837242,
+        "Classification": "Rectangular",
+        "LIDAR": "No",
+        "Number of mounds": 9.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": "L",
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.634554471669546, -10.515718278256559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 26,
+        "Site Name": "Nakahara 174",
+        "x (UTM 19S)": 656854,
+        "y (UTM 19S)": 8861015,
+        "Classification": "Rectangular",
+        "LIDAR": "No",
+        "Number of mounds": 7.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": "L",
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.567596682450812, -10.300474879688657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 27,
+        "Site Name": "Nakahara 177",
+        "x (UTM 19S)": 659686,
+        "y (UTM 19S)": 8871460,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 7.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "South/East",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.542172366190556, -10.205921009795969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 28,
+        "Site Name": "Nakahara 180",
+        "x (UTM 19S)": 665065,
+        "y (UTM 19S)": 8893773,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.494016591793169, -10.003957894641546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 29,
+        "Site Name": "Nakahara 195 II",
+        "x (UTM 19S)": 702868,
+        "y (UTM 19S)": 8922127,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": "Twins",
+        "Paired": "North/South",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 195 II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.150662471637432, -9.74590114106236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 30,
+        "Site Name": "Nakahara 195 III",
+        "x (UTM 19S)": 703926,
+        "y (UTM 19S)": 8922561,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": "Twins",
+        "Paired": "North/South",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 195 III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.14104299924557, -9.741925403149381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 31,
+        "Site Name": "Nakahara AC 207",
+        "x (UTM 19S)": 650843,
+        "y (UTM 19S)": 8901952,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara AC 207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.624055220013588, -9.930565643804321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 32,
+        "Site Name": "Nakahara AC 209",
+        "x (UTM 19S)": 659674,
+        "y (UTM 19S)": 8916810,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara AC 209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.544108855314889, -9.795883505673684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 33,
+        "Site Name": "Nakahara 223",
+        "x (UTM 19S)": 464778,
+        "y (UTM 19S)": 8815609,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.322108376839751, -10.714144882927648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 34,
+        "Site Name": "Nakahara 225",
+        "x (UTM 19S)": 648998,
+        "y (UTM 19S)": 8831007,
+        "Classification": "Rectangular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.638144036549363, -10.572109783607823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 35,
+        "Site Name": "Nakahara 226",
+        "x (UTM 19S)": 659757,
+        "y (UTM 19S)": 8847511,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": 3.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.54052717463253, -10.422451818858992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 36,
+        "Site Name": "Nakahara 227",
+        "x (UTM 19S)": 665579,
+        "y (UTM 19S)": 8861886,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.487975499030171, -10.292237432759922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 37,
+        "Site Name": "Nakahara 228",
+        "x (UTM 19S)": 663813,
+        "y (UTM 19S)": 8888556,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 8.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": "L",
+        "Paired": "Twins",
+        "Main avenue directions": "South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.505220396569541, -10.051178707745954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 38,
+        "Site Name": "Nakahara 229",
+        "x (UTM 19S)": 686380,
+        "y (UTM 19S)": 8866200,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 9.0,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.298289555830323, -10.25229450912127]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 39,
+        "Site Name": "Nakahara 230 I",
+        "x (UTM 19S)": 671748,
+        "y (UTM 19S)": 8896379,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 10.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "Twins",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 230 I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.433171981210336, -9.980115050209161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 40,
+        "Site Name": "Nakahara 230 II",
+        "x (UTM 19S)": 672121,
+        "y (UTM 19S)": 8896351,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 9.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": "L",
+        "Paired": "Twins",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Nakahara 230 II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.429768833879749, -9.980352198896197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 41,
+        "Site Name": "Peter 1",
+        "x (UTM 19S)": 680162,
+        "y (UTM 19S)": 8908938,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": 6.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": "L",
+        "Paired": "No",
+        "Main avenue directions": "Noroeste",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Peter 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.356999948383944, -9.866201287160136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 42,
+        "Site Name": "Peter 2",
+        "x (UTM 19S)": 688398,
+        "y (UTM 19S)": 8913104,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 9.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "Noroeste/sudeste",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Peter 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.282108777557426, -9.82816397060922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 43,
+        "Site Name": "Peter 3",
+        "x (UTM 19S)": 705294,
+        "y (UTM 19S)": 8923462,
+        "Classification": "Irregular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Peter 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.128622476704194, -9.733712344551185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 44,
+        "Site Name": "Ramal Nabor Junior I",
+        "x (UTM 19S)": 701011,
+        "y (UTM 19S)": 8902345,
+        "Classification": "Circular",
+        "LIDAR": null,
+        "Number of mounds": 5.0,
+        "Mound shape": null,
+        "Entrance shape": "L",
+        "Paired": "No",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Ramal Nabor Junior I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.166599124925128, -9.924821871832759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 45,
+        "Site Name": "Sanna",
+        "x (UTM 19S)": 672735,
+        "y (UTM 19S)": 8906845,
+        "Classification": "Rectangular",
+        "LIDAR": "Yes",
+        "Number of mounds": 7.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": "L",
+        "Paired": "No",
+        "Main avenue directions": "South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Sanna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.424622927539758, -9.885447747629877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 46,
+        "Site Name": "Sol do Alceu",
+        "x (UTM 19S)": 441809,
+        "y (UTM 19S)": 8793705,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 4.0,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Sol do Alceu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.532506172941268, -10.911950703886314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 47,
+        "Site Name": "Sol do Iquiri",
+        "x (UTM 19S)": 675577,
+        "y (UTM 19S)": 8900386,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 16.0,
+        "Mound shape": "Elongated and square",
+        "Entrance shape": "L",
+        "Paired": "No",
+        "Main avenue directions": "East/West",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Sol do Iquiri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.398426753126685, -9.943721670394297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 48,
+        "Site Name": "Sol de Campinas",
+        "x (UTM 19S)": 685329,
+        "y (UTM 19S)": 8887733,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 15.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Sol de Campinas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.308905720738679, -10.057675025957632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 49,
+        "Site Name": "Sol de Maio",
+        "x (UTM 19S)": 674441,
+        "y (UTM 19S)": 8893856,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 17.0,
+        "Mound shape": null,
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": "North",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Sol de Maio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.408499769035203, -10.002809340406333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 50,
+        "Site Name": "Sol do Nakahara I",
+        "x (UTM 19S)": 663896,
+        "y (UTM 19S)": 8888254,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": 11.0,
+        "Mound shape": "Elongated",
+        "Entrance shape": "L",
+        "Paired": "Twins",
+        "Main avenue directions": "North/South",
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Sol do Nakahara I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.504450651436827, -10.053905805666613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 51,
+        "Site Name": "Sol do Nakahara II",
+        "x (UTM 19S)": 646957,
+        "y (UTM 19S)": 8845072,
+        "Classification": "Circular",
+        "LIDAR": "No",
+        "Number of mounds": null,
+        "Mound shape": "Elongated",
+        "Entrance shape": null,
+        "Paired": "No",
+        "Main avenue directions": null,
+        "dataset_id": "iriarte",
+        "type": "mound_site",
+        "uid": "Sol do Nakahara II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.657344828139784, -10.445016920803919]
+      }
+    }
+  ]
+}

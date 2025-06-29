@@ -1,0 +1,57 @@
+[
+  {
+    "dataset_id": "Keller_Batistella_Gorgens_250",
+    "link": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/QIKEGD",
+    "crs": "22S"
+  },
+  {
+    "dataset_id": "Keller_Batistella_Gorgens_1038",
+    "link": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/ZHEMDY",
+    "crs": "21S"
+  },
+  {
+    "dataset_id": "Keller_Batistella_Gorgens_765",
+    "link": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi%3A10.48432%2FTMJT7O&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=name&fileSortOrder=desc",
+    "crs": "20S"
+  },
+  {
+    "dataset_id": "Keller_Batistella_Gorgens_2400",
+    "link": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi%3A10.48432%2FUT9GOG&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=name&fileSortOrder=desc",
+    "crs": "21S"
+  },
+  {
+    "dataset_id": "Lefsky_Saleska_Shimabukuro",
+    "link": "https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1515",
+    "crs": "20S"
+  },
+  {
+    "dataset_id": "Lefsky_Saleska_Shimabukuro_Para",
+    "link": "https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1514",
+    "crs": "EPSG:4326"
+  },
+  {
+    "dataset_id": "Longo_Keller_Dos-santos_Leitold_Pinagé_Baccini_Saatchi_Nogueira_Batistella_Morton_176.2",
+    "link": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/I98OSL",
+    "crs": "18S"
+  },
+  {
+    "dataset_id": "Longo_Keller_Dos-santos_Leitold_Pinagé_Baccini_Saatchi_Nogueira_Batistella_Morton_223.5",
+    "link": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/RW3KGS",
+    "crs": "18S"
+  },
+  {
+    "dataset_id": "Longo_Keller_Dos-santos_Leitold_Pinagé_Baccini_Saatchi_Nogueira_Batistella_Morton_374.7",
+    "link": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/L0IRCB",
+    "crs": "18S"
+  },
+  {
+    "dataset_id": "Longo_Keller_Dos-santos_Leitold_Pinagé_Baccini_Saatchi_Nogueira_Batistella_Morton_586.32",
+    "link": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi%3A10.48432%2FVBEGLK&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=name&fileSortOrder=desc",
+    "crs": "20S"
+  },
+  {
+    "dataset_id": "Santos_Keller_Batistella_244",
+    "link": "https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi:10.48432/9OUYDX",
+    "crs": "18S"
+  }
+]

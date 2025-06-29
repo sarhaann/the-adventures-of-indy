@@ -1,0 +1,2323 @@
+{
+  "type": "FeatureCollection",
+  "name": "radambrasil",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.934166667,
+        "Longitude": -47.89361111,
+        "Classification": "Latossolo Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "7660a757e6f16bfbcbd8871648d5d04ad754865c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.89361111, -2.934166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.9575,
+        "Longitude": -47.83666667,
+        "Classification": "Latossolo Amarelo Distrofico textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "62b693ce6e9f61dd9608145af0e7434cf37499b1"
+      },
+      "geometry": { "type": "Point", "coordinates": [-47.83666667, -2.9575] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.449722222,
+        "Longitude": -48.165,
+        "Classification": "Latossolo Vermelho-Amarelo Distrofico.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "ac10799a635a73a8486230d6ec7e07afddea5dff"
+      },
+      "geometry": { "type": "Point", "coordinates": [-48.165, -6.449722222] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -7.215,
+        "Longitude": -51.4075,
+        "Classification": "Latossolo Vermelho-amarelo Distrofico.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "f2178cd063a5faa0aa706dbf18df008687490b0e"
+      },
+      "geometry": { "type": "Point", "coordinates": [-51.4075, -7.215] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.618055556,
+        "Longitude": -47.49083333,
+        "Classification": "Latossolo Amarelo distrofico textura muito argilosa",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "fd953c402379324527efaf8907168da73a9561d8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.49083333, -4.618055556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.5,
+        "Longitude": -48.34083333,
+        "Classification": "Latossolo Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "beaf378e089936252ce6d612ebdb10ea56769175"
+      },
+      "geometry": { "type": "Point", "coordinates": [-48.34083333, -2.5] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.7,
+        "Longitude": -48.6725,
+        "Classification": "latossolo Amarelo Distrofico textura media intermediario para laterita hidromorfica.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "d628846cdb2a0f1001391e87755f97b8a887e943"
+      },
+      "geometry": { "type": "Point", "coordinates": [-48.6725, -1.7] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.581666667,
+        "Longitude": -51.9225,
+        "Classification": "Latossolo Amarelo Distrofico textura media",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "0e951b93f99c7762d1dd1f95c56d3533cf25f536"
+      },
+      "geometry": { "type": "Point", "coordinates": [-51.9225, -2.581666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.981666667,
+        "Longitude": -48.12694444,
+        "Classification": "Latossolo Amarelo Distrofico textura argilosa",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "9132ddb1906728c0606009c32f512b1355993600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.12694444, -1.981666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.890833333,
+        "Longitude": -48.88166667,
+        "Classification": "Latossolo Amarelo Distrofico textura media",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "2bfb2fa2ef1bf6b0495ba30dcbbf467fd42a88a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.88166667, -1.890833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.0,
+        "Longitude": -48.0,
+        "Classification": "Latossolo Amarelo Distrofico textura media",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "6d360b4171ffcec07d07ba1a94d75927db311ed6"
+      },
+      "geometry": { "type": "Point", "coordinates": [-48.0, -2.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.736111111,
+        "Longitude": -53.59083333,
+        "Classification": "Latossolo Amarelo Distrofico textura media",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "f40b6a3f1a33db1a6651b079be75bf015aeaf0bf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-53.59083333, -1.736111111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.963333333,
+        "Longitude": -48.34527778,
+        "Classification": "Latossolo Amarelo Distrofico concrecionario textura argilosa",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "8ba93500364c24b564dde8fe2ea10b342995029b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.34527778, -1.963333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -15.01666667,
+        "Longitude": -59.9,
+        "Classification": "Latossolo Amarelo alico A moderado textura media relevo plano. Haplustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "04ed4fb79850ffc6210278c6555d7ce3f1c02317"
+      },
+      "geometry": { "type": "Point", "coordinates": [-59.9, -15.01666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -13.25,
+        "Longitude": -56.88333333,
+        "Classification": "Latossolo Vermelho Escuro distrofico A moderado textura media relevo plano. Haplustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "f6f00b9115f321626ea4b5fc404af914538e9d1c"
+      },
+      "geometry": { "type": "Point", "coordinates": [-56.88333333, -13.25] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -14.58333333,
+        "Longitude": -57.16666667,
+        "Classification": "Latossolo Roxo Distrofico A moderado textura muito argilosa relevo plano. Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "d701449af645c361315764d6794c23742450e567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.16666667, -14.58333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -13.28333333,
+        "Longitude": -57.21666667,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura  argilosa relevo suave ondulado. Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "bb7acb5c790df2b74bfaccd668d4a60d23b3a3b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.21666667, -13.28333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -12.55,
+        "Longitude": -51.76666667,
+        "Classification": "Latossolo Vermelho Escuro  Distrofico  A moderado textura media  relevo plano. Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c779a268fd237f2f1262ba0524ecb01db662e994"
+      },
+      "geometry": { "type": "Point", "coordinates": [-51.76666667, -12.55] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -13.38333333,
+        "Longitude": -52.81666667,
+        "Classification": "Latossolo Vermelho Amarelo alico A moderado textura argilosa relevo plano. Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c3ad6a68de760ab0798a949159e17de62d9b01b7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-52.81666667, -13.38333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -12.6,
+        "Longitude": -62.08333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura media. Haplic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "e3918404fee193cd54670f7f5c5a4d09085297c3"
+      },
+      "geometry": { "type": "Point", "coordinates": [-62.08333333, -12.6] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -14.08333333,
+        "Longitude": -60.23333333,
+        "Classification": "Latossolo Amarelo Epialico A moderado textura media. Typic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "2c8d2830bcd91d3662edd1d3dace818dbb436fa6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.23333333, -14.08333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -13.96666667,
+        "Longitude": -60.28333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura media. Haplic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c2e0d27fa24c941be3d478de06bb5700ee51e689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.28333333, -13.96666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -13.81666667,
+        "Longitude": -60.18333333,
+        "Classification": "Latossolo Vermelho-Amarelo Alico A moderado textura argilosa. Haplic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "310087e6f0c7946da86cbd2c32c2915b8cdcc3cf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.18333333, -13.81666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.233333333,
+        "Longitude": -66.35,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "1d6023c66ff12978143448b29e3532054bf6d96d"
+      },
+      "geometry": { "type": "Point", "coordinates": [-66.35, -1.233333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.733333333,
+        "Longitude": -67.45,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "1a6f247f18c943882ae30f6d0059b4ac3830bee5"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.45, -1.733333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.833333333,
+        "Longitude": -68.85,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "98c42d567d9341cab5fdde02704a5c5bdf68afb5"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.85, -2.833333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.533333333,
+        "Longitude": -66.08333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "414dc50b2a2a1dc8555e808974912767eb2f1a50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.08333333, -2.533333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -3.566666667,
+        "Longitude": -66.06666667,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "eda0e682267652c0ba26c9297f63786aedd75ae2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.06666667, -3.566666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -3.65,
+        "Longitude": -69.11666667,
+        "Classification": "Latossolo Amarelo Alico A moderado textura  media. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "7b1d3ea75a7d6c2ee6a0e1576bfd184f2a97b691"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.11666667, -3.65] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.1,
+        "Longitude": -69.13333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura media. Allic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "85cfd71eb0f2d43bdf86377aa8d32bcaf201a849"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.13333333, -1.1] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -3.783333333,
+        "Longitude": -69.65,
+        "Classification": "Latossolo Amarelo Alico plintico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "b76d08e263cbb5e205e86081cd52283e5b422de0"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.65, -3.783333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -3.916666667,
+        "Longitude": -68.88333333,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura argilosa. Allic Ochric Umbriorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "956fdc0d6d4c046448acc86737d15ad33545aa41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.88333333, -3.916666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.25,
+        "Longitude": -68.01666667000001,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura argilosa. Allic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "5aabaad9371fd44d20d3ae8a36eb406421fab2e4"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.01666667, -1.25] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -0.138333333,
+        "Longitude": -66.99861111,
+        "Classification": "Latossolo Vermelho Escuro Alico A moderado textura muito argilosa. Allic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "8563c11d0b2051e6a46a7f365c4a147820fb4650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.99861111, -0.138333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -7.576666667,
+        "Longitude": -72.68555556,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "03fd4a7976023f61432700106ab0b6960cdd3253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.68555556, -7.576666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -8.233333333,
+        "Longitude": -72.81666667,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "5c19053d48733e5948eaf66549e4991aa9b5ae83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.81666667, -8.233333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.766666667,
+        "Longitude": -68.85,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "76b347ace26471902ab5e6593f38aea21f38e763"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.85, -4.766666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -5.733333333,
+        "Longitude": -70.16666667,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "169620210c4e0e9af06a1da603fc4b4c94862564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.16666667, -5.733333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.316666667,
+        "Longitude": -69.16666667,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "d93d0bf84816cd0d65ba78277829c6f6a1da5189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.16666667, -6.316666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -10.36666667,
+        "Longitude": -54.68333333,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura argilosa. Typic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "809b90c7c47968abed24401d1b41472c3c7aeab1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.68333333, -10.36666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -10.45,
+        "Longitude": -54.35,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura argilosa. Typic Umbriorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "93af998f2a419bb0fd491c0e07cc4f34166db2b5"
+      },
+      "geometry": { "type": "Point", "coordinates": [-54.35, -10.45] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.81666667,
+        "Longitude": -54.66666667,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura argilosa. Haplic Acrusthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "8790e6e9f8ca73a51857fb71e591776ca00f01a4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.66666667, -11.81666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.88333333,
+        "Longitude": -55.48333333,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura argilosa. ultic Haplic Acrusthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "db6bc4feaec806dbbd18135bf2ac4b14f52e9e9b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.48333333, -11.88333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.66666667,
+        "Longitude": -55.6675,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura media. Quartzipsammentic  Acrusthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "4483dae55048d825a689b2625911d4f016c29558"
+      },
+      "geometry": { "type": "Point", "coordinates": [-55.6675, -11.66666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -8.933333333,
+        "Longitude": -58.91666667,
+        "Classification": "Latossolo Vermelho Amarelo alico A moderado textura muito argilosa. Typic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "097647eb9d645e116b56ee2e7a19f24e268ee072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.91666667, -8.933333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.75,
+        "Longitude": -56.91666667,
+        "Classification": "Latossolo Vermelho Amarelo epialico A fraco textura media. Quartzipsammentic Haplustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "e4c7630e6fa49ed390da2b45e5ba0370770134d6"
+      },
+      "geometry": { "type": "Point", "coordinates": [-56.91666667, -11.75] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.939166667,
+        "Longitude": -56.69166667,
+        "Classification": "Latossolo Vermelho Escuro distrofico A moderado textura muito argilosa. Tropeptic Umbriorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "a0244a54198d3dbe0efc1125571d1b1633daa4db"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.69166667, -9.939166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -10.91666667,
+        "Longitude": -59.35,
+        "Classification": "Latossolo Vermelho Escuro alico A moderado textura muito argilosa. Haplic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "b73aab9fa50323bf1263b03be95eb801b6e0bf93"
+      },
+      "geometry": { "type": "Point", "coordinates": [-59.35, -10.91666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -10.25,
+        "Longitude": -54.83333333,
+        "Classification": "Latossolo Vermelho Escuro epialico A moderado textura argilosa. Ultic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "391ddc62f34045a43c6beb21b3c1293e4ba1f3a4"
+      },
+      "geometry": { "type": "Point", "coordinates": [-54.83333333, -10.25] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.58305556,
+        "Longitude": -55.40611111,
+        "Classification": "Latossolo Vermelho Escuro epialico A moderado textura media.Haplic Quartzipsamment Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "200969025c632101ce174077e69de8f661a6f9d8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.40611111, -11.58305556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.366666667,
+        "Longitude": -51.08333333,
+        "Classification": "Latossolo Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "6841b874f40230d67e09cd5ad06b565fed0eee20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.08333333, 0.366666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.3,
+        "Longitude": -59.0,
+        "Classification": "Latossolo Amarelo Distrofico textura  media.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "3e81e096c18eb2e33994e58c48eb8c5973f1f803"
+      },
+      "geometry": { "type": "Point", "coordinates": [-59.0, 1.3] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.583333333,
+        "Longitude": -52.65,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "3eda50d0c0f73c62f15422c2676cd5b5ef09712b"
+      },
+      "geometry": { "type": "Point", "coordinates": [-52.65, 0.583333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.366666667,
+        "Longitude": -53.16666667,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c7c8c593ba0f6afed5777aacc9431a2c018b5133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-53.16666667, 0.366666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.8,
+        "Longitude": -53.0,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura  argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "4d818df364d34708b3e58bbaa2c1dc12448a071f"
+      },
+      "geometry": { "type": "Point", "coordinates": [-53.0, 0.8] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.183333333,
+        "Longitude": -51.85,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura  argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "3100e63436ece9dafe824d278c1ffecb34f3fb8a"
+      },
+      "geometry": { "type": "Point", "coordinates": [-51.85, 1.183333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.55,
+        "Longitude": -52.65,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura  argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "475926f4a556f1ac356e4e2276ecc54766975721"
+      },
+      "geometry": { "type": "Point", "coordinates": [-52.65, 0.55] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -0.583333333,
+        "Longitude": -65.78333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura media. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "8846d00605e9cce49be350ecce1715dee6a283c2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.78333333, -0.583333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -0.366666667,
+        "Longitude": -62.75,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argiloas. Allic  Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "15a17ce3af4184200a317208cf9523716a41acb7"
+      },
+      "geometry": { "type": "Point", "coordinates": [-62.75, -0.366666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.583333333,
+        "Longitude": -60.66666667,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "94de808cf9ffd5ed3fd91727b9a0c949262005e4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.66666667, -2.583333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -0.333333333,
+        "Longitude": -62.31666667,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa. Allic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c58ced6696eeadde3723a1a50c87ba00520614f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-62.31666667, -0.333333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.083333333,
+        "Longitude": -61.73333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "64c365c805678ab3bc426ec7362331a2b0c00752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.73333333, -1.083333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.266666667,
+        "Longitude": -61.58333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "eac99dd089abbad650e0f62da1240dd59312d577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.58333333, -2.266666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.919166667,
+        "Longitude": -60.05277778,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "b98cb3b44048ea741312256561ebb64ef3a16377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.05277778, -1.919166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.816666667,
+        "Longitude": -60.43333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "70a52b331c9755d6c796b37eb4113f1bdf4b6e19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.43333333, -2.816666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.883333333,
+        "Longitude": -60.1,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "0c08f856856ba30a74b6b9a9a072956f514d1467"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.1, -2.883333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -0.816666667,
+        "Longitude": -61.4,
+        "Classification": "Latossolo Amarelo Epialico A moderado textura muito argilosa. Haplic  Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "71b95c54016ff877f9a204f05916d26481ea1eaf"
+      },
+      "geometry": { "type": "Point", "coordinates": [-61.4, -0.816666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.183333333,
+        "Longitude": -60.51666667,
+        "Classification": "Latossolo Amarelo Epialico A moderado textura muito argilosa.Haplic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "32d5b51d8a6028fd5425a2b40fa888f74072397b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.51666667, -2.183333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.066666667,
+        "Longitude": -60.11666667,
+        "Classification": "Latossolo Amarelo Distrofico A moderado textura muito argilosa. Haplic Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "7e64e03916f78ff93dabd6b046c1ae5075c400bb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.11666667, -2.066666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.419166667,
+        "Longitude": -60.31027778,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura argilosa. Allic Haplustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "76b83711906ba2bde443b8fd108e0dc2a11ce8b5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.31027778, -1.419166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -0.316666667,
+        "Longitude": -60.85,
+        "Classification": "Latossolo Vermelho Amarelo Epialico A moderado textura muito argilosa. Haplic  Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "7b1af5cdc2cd184164b0e6db9251d40103d8fa5b"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.85, -0.316666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.291666667,
+        "Longitude": -60.39,
+        "Classification": "Latossolo Vermelho Amarelo Epialico A moderado textura muito argilosa. Typic Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "b55bdc7ede7f1a7edff83889b7afc611eaf162a4"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.39, -1.291666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -0.516666667,
+        "Longitude": -60.01666667,
+        "Classification": "Latossolo Vermelho Amarelo Epialico concrecionario A moderado textura muito argilosa. Haplic Petroferric Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "2e2e0769bc44586261a9fc751299fe0395198e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.01666667, -0.516666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.65,
+        "Longitude": -69.01666667000001,
+        "Classification": "Latossolo vermelho amarelo distrofico A. Haplorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "7e39ce049e81a0ffb97a70fd1c02066e92a5ad49"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.01666667, 1.65] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.333333333,
+        "Longitude": -69.2,
+        "Classification": "Latossolo vermelho amarelo distrofico A, proeminente textura argilosa. Acrorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "fa747b665a6abe5028428968ad3caca1f4a399ea"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.2, 1.333333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.483333333,
+        "Longitude": -69.46666667,
+        "Classification": "Latossolo vermelho amarelo distrofico A moderado textura argilosa. Haplorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "1203a263e54d970dd23ac50cd8ae6c386752cfc3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.46666667, 1.483333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.266666667,
+        "Longitude": -69.61666667,
+        "Classification": "Latossolo vermelho amarelo distrofico A moderado textura media. Haplorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "f004aa4214b63851f7251ab7bf0bff03fd1b65d1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.61666667, 1.266666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.616666667,
+        "Longitude": -69.18333333,
+        "Classification": "Latossolo vermelho amarelo distrofico A moderado textura argilosa. Haplorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "cb81f409fe354094a7d7ea27d0e3a8efc2883edd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.18333333, 0.616666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.3,
+        "Longitude": -69.35,
+        "Classification": "Latossolo vermelho amarelo distrofico A moderado textura argilosa. Haplorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "e284c0d2b3e0285f9a7d462fed1abbb31e812fdd"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.35, 0.3] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.2,
+        "Longitude": -66.86666667,
+        "Classification": "Latossolo vermelho amarelo distrofico A proeminente textura argilosa. Acrorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "d82569d47436c40d2677f796b32ac7b5ba7d17b8"
+      },
+      "geometry": { "type": "Point", "coordinates": [-66.86666667, 1.2] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.65,
+        "Longitude": -66.26666667000001,
+        "Classification": "Latossolo vermelho amarelo distrofico A moderado textura argilosa. Haplorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "a7e764abe96aa71a74f2a30e1161c76e741c1ddb"
+      },
+      "geometry": { "type": "Point", "coordinates": [-66.26666667, 0.65] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.25,
+        "Longitude": -66.8,
+        "Classification": "Latossolo amarelo vermelho distrofico A moderado textura m]edia. Acrorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "3c85de1646aa467435b42438acff64bd02e3e922"
+      },
+      "geometry": { "type": "Point", "coordinates": [-66.8, 1.25] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -8.483333333,
+        "Longitude": -61.51666667,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa. Alic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c884debeab80594f64a5d779bcaf0b4f592b61fd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.51666667, -8.483333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.17,
+        "Longitude": -63.215,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa. Alic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "f1148c3ec1b656047345885054d61ee3ab434538"
+      },
+      "geometry": { "type": "Point", "coordinates": [-63.215, -9.17] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.166666667,
+        "Longitude": -62.48333333,
+        "Classification": "Latossolo Amarelo Alico A fraco textura argilosa. Alic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "09d9ccf4fd9962a66d43324fdcf9fdef8ac405e2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-62.48333333, -9.166666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.15,
+        "Longitude": -64.73333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura media. Alic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "918d85ac73c0693f87f4fb627fecf2f66cc10eec"
+      },
+      "geometry": { "type": "Point", "coordinates": [-64.73333333, -11.15] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.816666667,
+        "Longitude": -64.16666667,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura muito argilosa. Alic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "bdffc96a3d56c0d6e854ea0ff155b7249a9a1941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.16666667, -9.816666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.433333333,
+        "Longitude": -65.76666667000001,
+        "Classification": "Latossolo Vermelho Amarelo Alico A fraco textura argilosa. Alic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "59ee2705a8878448991659212bfb0f2f5055ea0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.76666667, -9.433333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.35,
+        "Longitude": -62.25,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura muito argilosa. Alic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "e005b78c1e39c4ae882904d39cb558b4830e934a"
+      },
+      "geometry": { "type": "Point", "coordinates": [-62.25, -9.35] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.416666667,
+        "Longitude": -65.98333333,
+        "Classification": "Latossolo Vermelho Escuro Alico cascalhento A moderado textura muito argilosa. Alic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "8198dce9a22218db7a7f2b5da4cab5307925ded7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.98333333, -9.416666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.5,
+        "Longitude": -60.33333333,
+        "Classification": "Latossolo Vermelho Escuro Alico A moderado textura muito argilosa. Alic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "4eac72182bd057ffbc4a7b45dad1f0d576dfe169"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.33333333, -9.5] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -10.8,
+        "Longitude": -63.53333333,
+        "Classification": "Latossolo Roxo Alico A proeminente textura argilosa. Alic Haplohumox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "778cd458e83737a78d7434b268bea1729efc8b69"
+      },
+      "geometry": { "type": "Point", "coordinates": [-63.53333333, -10.8] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -5.916666667,
+        "Longitude": -60.91666667,
+        "Classification": "Latossolo Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "afc967a4ee54dfecd8b9b806ce271138c687455e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.91666667, -5.916666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -5.866666667,
+        "Longitude": -60.08333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "691da1b432bad4984dcedb09c2198adc559d1bbc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.08333333, -5.866666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.116666667,
+        "Longitude": -60.45,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "d2089da4d2d5a49e8bcdc083beb3f7282856cca1"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.45, -6.116666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -7.465555556,
+        "Longitude": -63.3,
+        "Classification": "Latossolo Amarelo Alico A moderado textura media. Allic Haplusthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "fc9d91338bc32374fe4c1f41cd8030e734773d7d"
+      },
+      "geometry": { "type": "Point", "coordinates": [-63.3, -7.465555556] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.8,
+        "Longitude": -60.28333333,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura media. Allic Haplorthox",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "fff4caae873a88ec7e209c7e06364702cc6e78dc"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.28333333, -6.8] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -7.4,
+        "Longitude": -61.66666667,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura muito argilosa. Allic  Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "5f51b56083aecbbb315acbd0bb107c49a3bc6459"
+      },
+      "geometry": { "type": "Point", "coordinates": [-61.66666667, -7.4] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -7.366666667,
+        "Longitude": -60.45,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura muito argilosa. Allic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "224a6cabbbb6d5f1be8ede3d8cc9d98b4e223bee"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.45, -7.366666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -7.8,
+        "Longitude": -60.25,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura muito argilosa. Allic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c15bbe33d402ee91aba4679f0abb6013c9064ca1"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.25, -7.8] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -7.366666667,
+        "Longitude": -60.98333333,
+        "Classification": "Latossolo Vermelho Amarelo Epialico A moderado textura media. Quartzipsammentic  Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "ad6bbd52388e31c382a589f2d0bab10b73858760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.98333333, -7.366666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -7.016666667,
+        "Longitude": -60.81666667,
+        "Classification": "Latossolo Vermelho Amarelo Epialico A moderado textura muito argilosa. Haplic Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "aafbdd395cdae498a1d511a9dcfa9a3b4a5bd7d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.81666667, -7.016666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -7.319166667,
+        "Longitude": -60.23833333,
+        "Classification": "Latossolo Vermelho Escuro Alico A moderado textura muito argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "be161ef525a72e38472449faa499c3ce459eefa2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.23833333, -7.319166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -8.333333333000001,
+        "Longitude": -68.3,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "43c00acdb8d83a263ee757fbb18c66fb11a703d1"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.3, -8.333333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -8.916666667,
+        "Longitude": -68.31666667,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura argilosa. Allic Epiaquic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "bb3e5821dddba07204db10e99240ad318c96ca9d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.31666667, -8.916666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.395833333000001,
+        "Longitude": -68.4575,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "381cf804bc97c535e79686aa2c8e18edd925546f"
+      },
+      "geometry": { "type": "Point", "coordinates": [-68.4575, -9.395833333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -10.03833333,
+        "Longitude": -67.615,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c9fb701ff8706c481070523823ea8f9d8bbbe77b"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.615, -10.03833333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -8.45,
+        "Longitude": -67.43333333,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "001ce1479e0f44be73081cc21315a8d995d071ae"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.43333333, -8.45] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.753333333,
+        "Longitude": -66.25333333,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura muito argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "77aeac3aa5dedb39367d2a97b6c40ee89afd06c3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.25333333, -9.753333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -10.33416667,
+        "Longitude": -67.5725,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura muito argilosa. Allic Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "9c1fa277c0819420b1667f11e1373882cf72a0fe"
+      },
+      "geometry": { "type": "Point", "coordinates": [-67.5725, -10.33416667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.715,
+        "Longitude": -66.03833333,
+        "Classification": "Latossolo Vermelho Escuro  Alico A moderado textura muito argilosa. Allic Ochric Umbriorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "539149c20d5f7c6cea621a54689d288650d68f29"
+      },
+      "geometry": { "type": "Point", "coordinates": [-66.03833333, -9.715] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 3.395833333,
+        "Longitude": -60.87861111,
+        "Classification": "Latossolo Amarelo Distrofico textura media.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "6a1223793b90e6f9b8a6acf6f2757be2f4610926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.87861111, 3.395833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 3.176666667,
+        "Longitude": -60.21194444,
+        "Classification": "Latossolo Amarelo Distrofico textura media.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "1c32de1d94f9fda25571211f75ecb0a800965880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.21194444, 3.176666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 3.55,
+        "Longitude": -63.13333333,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "94d1b4ceff273f9fe160c67f0a105be97d1ce073"
+      },
+      "geometry": { "type": "Point", "coordinates": [-63.13333333, 3.55] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 2.583333333,
+        "Longitude": -63.41666667,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "713eada69e915840db4465aa3e74a38f113c438b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.41666667, 2.583333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.083333333,
+        "Longitude": -60.53333333,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "673748f48b2468c5b08b3ce7640c381fc05f0408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.53333333, 1.083333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.011666667,
+        "Longitude": -65.1,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "a6ab69561871a92057933c60c4ac6fd9d6ddf60a"
+      },
+      "geometry": { "type": "Point", "coordinates": [-65.1, 0.011666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 3.533333333,
+        "Longitude": -63.18333333,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "990fff2579d7108072c0dcf3de033c2319fc4f18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.18333333, 3.533333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 2.783333333,
+        "Longitude": -63.13333333,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "99aaf14b71ad1d4cc2f92e706e5ba47eee4e9d84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.13333333, 2.783333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 3.0725,
+        "Longitude": -60.33333333,
+        "Classification": "Latossolo Vermelho Escuro Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "bdfaa38717a20915a5f71d2a4cd29d84e0da13cd"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.33333333, 3.0725] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.526388889,
+        "Longitude": -58.46555556,
+        "Classification": "Latossolo Amarelo Distrofico A fraco textura muito argilosa. Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "7834fb94d96725417d4535f197fec7ba2dd74637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.46555556, -1.526388889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.798888889,
+        "Longitude": -55.46555556,
+        "Classification": "Latossolo Amarelo Distrofico A moderado textura media. Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "aa83a7fecb5e08fbe81637131bedc8d968704b17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.46555556, -1.798888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -3.1,
+        "Longitude": -58.82166667,
+        "Classification": "Latossolo Amarelo Distrofico A moderado textura argilosa. Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "b87803b07cd4bae6267200704401cdf65e3dfb61"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.82166667, -3.1] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -3.316666667,
+        "Longitude": -57.45,
+        "Classification": "Latossolo Amarelo Distrofico A moderado textura muito argilosa. Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "5e1d6febf9749b3d02088da7cf34a06d0d7a23ea"
+      },
+      "geometry": { "type": "Point", "coordinates": [-57.45, -3.316666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.216666667,
+        "Longitude": -56.91666667,
+        "Classification": "Latossolo Amarelo Distrofico A proeminente textura muito argilosa. Umbriorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "1ff07d1fb37edde9539682c822f2607fe4c6d40f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.91666667, -2.216666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.691666667,
+        "Longitude": -56.42388889,
+        "Classification": "Latossolo Amarelo Distrofico A fraco textura media. Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "28a05fc0dee18c3a181d1d9a3c8a7d4cba2acd84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.42388889, -2.691666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.791666667,
+        "Longitude": -54.32916667,
+        "Classification": "Latossolo Amarelo Distrofico A fraco textura media. Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "ae1498d08a77dd1a611b87989c4dca84a216fc0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.32916667, -2.791666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -0.934166667,
+        "Longitude": -58.93916667,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura argilosa. Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "ec5bda957487297a92cd23d07ff247b2567ebb94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.93916667, -0.934166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.6575,
+        "Longitude": -58.5225,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura argilosa. Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "a2a7953acc16a45577ae9f83fa60fe87724f3c08"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.5225, -1.6575] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.216666667,
+        "Longitude": -57.93333333,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura muito argilosa.Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "61167ec8d67b1a807449bd44da8bdc4247c951d2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.93333333, -1.216666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -0.919166667,
+        "Longitude": -56.64361111,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura muito argilosa. Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "388e850fbe1c14bc95b2d72923da2e444dc5d682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.64361111, -0.919166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.051666667,
+        "Longitude": -47.56305556,
+        "Classification": "Latossolo Amarelo textura media",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "7e432980b4750bd59976b0fa56ec0b7b9b355bf5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.56305556, -2.051666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.961666667,
+        "Longitude": -47.87138889,
+        "Classification": "Latossolo Amarelo textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "9e7d5f7ee3bad08425fd39334edf57494a75572b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.87138889, -2.961666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.945833333,
+        "Longitude": -47.8175,
+        "Classification": "Latossolo Amarelo textura muito argilosa",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "e2701d678d0fb17124edc0d353f9259096f47674"
+      },
+      "geometry": { "type": "Point", "coordinates": [-47.8175, -2.945833333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.756666667,
+        "Longitude": -47.46388889,
+        "Classification": "Latossolo Vermelho Amarelo textura media",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "4088fcb476a0842c1c31d0fc4bfd585dbe5abd0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.46388889, -1.756666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.063055556,
+        "Longitude": -46.79277778,
+        "Classification": "Latossolo Amarelo Textura Media",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "2709d9206e0a2a71c07f167b59965f87c1f02ae2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.79277778, -1.063055556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.053333333,
+        "Longitude": -59.415,
+        "Classification": "Latossolo Amarelo Distrofico textura media.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "d8b443d33ce411a878a99d472f94ed2f312a8fa0"
+      },
+      "geometry": { "type": "Point", "coordinates": [-59.415, -4.053333333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.453333333,
+        "Longitude": -58.59583333,
+        "Classification": "Latossolo Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c6959128a2971cd59c27ae6f64cf96c5103894a5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.59583333, -4.453333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.652222222,
+        "Longitude": -59.5725,
+        "Classification": "Latossolo Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "29a5412ff61a2e40fe6b1ccce160e4f0167560f8"
+      },
+      "geometry": { "type": "Point", "coordinates": [-59.5725, -4.652222222] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.8575,
+        "Longitude": -58.3575,
+        "Classification": "Latossolo Amarelo Distrofico textura media.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "a099cb84741a87be80d21c45ca722fe755a79c43"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3575, -4.8575] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.776666667,
+        "Longitude": -57.93416667,
+        "Classification": "Latossolo Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "196f30edaba3416eec844d0a8d0f82a7363571ae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.93416667, -4.776666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -5.0725,
+        "Longitude": -58.0725,
+        "Classification": "Latossolo Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "0bbcf29d396017915e77d1548c662ffe52047b7c"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.0725, -5.0725] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.7,
+        "Longitude": -58.83416667,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura media.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "ef1bd30861936a244516bd75a9ae8b9a54d4ae4a"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.83416667, -6.7] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.653333333,
+        "Longitude": -56.87666667,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "b67950707716c44b4bc46d4e37a210fbda751d8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.87666667, -6.653333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.8,
+        "Longitude": -56.8725,
+        "Classification": "Latossolo Vermelho Aamrelo Distrofico textuar muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "176959876768d44a392f7f825d2e5bcf8dc7398a"
+      },
+      "geometry": { "type": "Point", "coordinates": [-56.8725, -6.8] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.345277778,
+        "Longitude": -46.59444444,
+        "Classification": "Latossolo Amarelo textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "bab2c104b43f4121c83cf43bac45bd1baeac4643"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.59444444, -4.345277778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.608888889,
+        "Longitude": -47.49527778,
+        "Classification": "Latossolo Amarelo textura muito argilosa",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "9a8b4d9aed49ea76bdaa0f27afb0e3a267618542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.49527778, -4.608888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.79166667,
+        "Longitude": -51.60916667,
+        "Classification": "Latossolo Vremelho Escuro epialico A moderado textura media. Acrohumox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "80d2ce24a68aa125fa423f88199b96f151b802d7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.60916667, -11.79166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.16666667,
+        "Longitude": -53.91666667,
+        "Classification": "Latossolo Vermelho Escuro alico A moderado textura media. Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "31066e04b54d13e769448e7f898f8d36f25a36fd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-53.91666667, -11.16666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.566666667,
+        "Longitude": -53.81666667,
+        "Classification": "Latossolo Vermelho-Amarelo Distrofico podzolico A moderado textura argilosa. Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c8f82d06db7470f5f7922e1d98edc794da39f916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-53.81666667, -9.566666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -8.35,
+        "Longitude": -52.45,
+        "Classification": "Latossolo Vermelho Amarelo epialico A moderado textura argilosa/argilosa cascalhenta. Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "b7774f6d78b2920c6d3474764ba7cba26f6eaa75"
+      },
+      "geometry": { "type": "Point", "coordinates": [-52.45, -8.35] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -9.2,
+        "Longitude": -51.93333333,
+        "Classification": "Latossolo Vermelho Amarelo distrofico A moderado textura media. Haplorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "7369d1c63bd917d1593ff1e46b44c4ef617d89bc"
+      },
+      "geometry": { "type": "Point", "coordinates": [-51.93333333, -9.2] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.05,
+        "Longitude": -53.26666667,
+        "Classification": "Latossolo Vermelho Amarelo distrofico A moderado textura media. Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "ab0a37e2192e59872c4cf2a00c17deabd88e2692"
+      },
+      "geometry": { "type": "Point", "coordinates": [-53.26666667, -11.05] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -11.56666667,
+        "Longitude": -52.75,
+        "Classification": "Latossolo Vermelho Amarelo alico A moderado textura argilosa. Acrustox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "f81ab420d380aac6f0084594020f9c3739ff64d0"
+      },
+      "geometry": { "type": "Point", "coordinates": [-52.75, -11.56666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -8.1,
+        "Longitude": -50.3,
+        "Classification": "Latossolo Vermelho Amarelo alico A moderado textura media. Acrorthox.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "6ebe7a74663fe5672d3ac7c23c13c642aa74d042"
+      },
+      "geometry": { "type": "Point", "coordinates": [-50.3, -8.1] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 3.166666667,
+        "Longitude": -60.2,
+        "Classification": "Latossolo amarelo distrofico textura media",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "c8863f34f932cea7098483a3477113444cbf85ae"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.2, 3.166666667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.883333333,
+        "Longitude": -57.43333333,
+        "Classification": "Latossolo vermelho amarelado distrofico cascalhento textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "57e3682dc4090c8119dc86a04a0da9fce886377d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.43333333, 1.883333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 0.05,
+        "Longitude": -57.5,
+        "Classification": "Latossolo vermelho amarelo distrofico textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "2cd3874b42293a365ca156eb12fc248846c84d35"
+      },
+      "geometry": { "type": "Point", "coordinates": [-57.5, 0.05] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.366666667,
+        "Longitude": -55.66666667,
+        "Classification": "Latossolo vermelho amarelo distrofico cascalhento, textura argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "90abffe45ceee978b4b8946c823e129ff79fd117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.66666667, 1.366666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.2,
+        "Longitude": -55.63333333,
+        "Classification": "Latossolo vermelho amarelo distrofico cascalhento, textura  muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "f64d6fdaa5e2a5e7d3f353e89f570e058b70262c"
+      },
+      "geometry": { "type": "Point", "coordinates": [-55.63333333, 1.2] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.05,
+        "Longitude": -55.86666667,
+        "Classification": "Latossolo vermelho amarelo distrofico textura argilosa",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "6a4e3c67984995bbb68e690350547dada3cc2060"
+      },
+      "geometry": { "type": "Point", "coordinates": [-55.86666667, 1.05] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.45,
+        "Longitude": -55.33333333,
+        "Classification": "Latossolo vermelho amarelo distrofico textura argilosa",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "037ec59365cc0aa424f70d2df142a4750abd8eb8"
+      },
+      "geometry": { "type": "Point", "coordinates": [-55.33333333, 1.45] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": 1.35,
+        "Longitude": -54.28333333,
+        "Classification": "Latossolo vermelho amarelo distrofico textura argilosa",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "b1fd6488e88c3bc3c5281a1329da70279f50618b"
+      },
+      "geometry": { "type": "Point", "coordinates": [-54.28333333, 1.35] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.590833333,
+        "Longitude": -51.92916667,
+        "Classification": "Latossolo Vermelho Amarelo Distrofico A moderado textura cascalhenta.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "521510197440f37cfd7328cc8c74c3278a7a6835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.92916667, -6.590833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.855833333,
+        "Longitude": -51.68166667,
+        "Classification": "Latossolo Roxo Distrofico A moderado textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "1c4bcd669379c7dbe34d06839d2b30a25e14cf09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.68166667, -6.855833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.9,
+        "Longitude": -54.93333333,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "47f7fe85f4fc03901ec851bb7d28048676610fa0"
+      },
+      "geometry": { "type": "Point", "coordinates": [-54.93333333, -2.9] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -2.75,
+        "Longitude": -54.9,
+        "Classification": "Latossolo Amarelo Alico A moderado textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "45c694192cec134126af231d2241d35f2490b4d0"
+      },
+      "geometry": { "type": "Point", "coordinates": [-54.9, -2.75] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.052777778,
+        "Longitude": -55.18722222,
+        "Classification": "Latossolo Vermelho Amarelo Alico A moderado textura muito argilosa fase floresta equatorial subperenifolia relevo plano.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "3278fd912867da252afd83b351e25153041917ea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.18722222, -4.052777778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -6.0675,
+        "Longitude": -50.10861111,
+        "Classification": "Latossolo Vermelho Escuro Alico A moderado textura  muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "b62f8d200769382f921627015f02975136d3c6c9"
+      },
+      "geometry": { "type": "Point", "coordinates": [-50.10861111, -6.0675] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -1.242222222,
+        "Longitude": -47.90472222,
+        "Classification": "Latossolo Amarelo Alico A moderado textura media.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "45c134c67a414b800a2ff821ce7c04d6bbe55c7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.90472222, -1.242222222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Latitude": -4.301111111,
+        "Longitude": -49.17277778,
+        "Classification": "Latossolo vermelho Amarelo Alico A moderado textura muito argilosa.",
+        "dataset_id": "radambrasil",
+        "type": "terra_preta_control",
+        "uid": "1f935c30e96d5e0d1d25a4113d463e313b9160f4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.17277778, -4.301111111]
+      }
+    }
+  ]
+}

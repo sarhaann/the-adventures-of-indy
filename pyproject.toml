@@ -1,0 +1,58 @@
+[project]
+name = "indy"
+version = "0.1.0"
+description = "Indy: Evals and AI Agents to search the Amazon for lost civilizations"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.38.43",
+    "earthengine-api>=1.5.21",
+    "fastapi[all]>=0.115.13",
+    "filelock>=3.18.0",
+    "fiona>=1.10.1",
+    "fire>=0.7.0",
+    "folium>=0.20.0",
+    "gdal>=3.11.0",
+    "geemap>=0.35.3",
+    "geopandas>=1.1.0",
+    "ipykernel>=6.29.5",
+    "laspy[lazrs]>=2.5.4",
+    "matplotlib>=3.10.3",
+    "modal>=1.0.4",
+    "mss>=10.0.0",
+    "numpy>=2.3.1",
+    "openai>=1.91.0",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.0",
+    "pdal>=3.4.5",
+    "pillow>=11.2.1",
+    "plotly>=6.1.2",
+    "pycrs>=1.0.2",
+    "pymupdf>=1.26.1",
+    "pyreadr>=0.5.3",
+    "python-dotenv>=1.1.1",
+    "python-pdal>=0.0.1",
+    "rasterio>=1.4.3",
+    "requests>=2.32.4",
+    "rich[jupyter]>=14.0.0",
+    "ruff>=0.12.0",
+    "scikit-learn>=1.7.0",
+    "scipy>=1.16.0",
+    "selenium>=4.33.0",
+    "setuptools>=80.9.0",
+    "shapely>=2.1.1",
+    "streamlit>=1.46.1",
+    "streamlit-folium>=0.25.0",
+    "tqdm>=4.67.1",
+]
+
+
+[tool.pyright]
+reportPrivateImportUsage = false
+pythonVersion = "3.12"
+typeCheckingMode = "off"
+reportUndefinedVariable = true
+reportAssertAlwaysTrue = "warning"
+reportDuplicateImport = "warning"
+reportUnusedImport = "warning"
+include = ["src"]

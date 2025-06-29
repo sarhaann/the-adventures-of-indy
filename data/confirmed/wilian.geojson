@@ -1,0 +1,570 @@
+{
+  "type": "FeatureCollection",
+  "name": "wilian",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 39.0,
+        "name": 46.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26846856, -3.23046735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 53.0,
+        "name": 47.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26896415, -3.23042826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 43.0,
+        "name": 48.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26867909, -3.23024487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 57.0,
+        "name": 49.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26893329, -3.23011316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 50.0,
+        "name": 50.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26874317, -3.23031608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 51.0,
+        "name": 51.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26890933, -3.22919193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 48.0,
+        "name": 52.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26838323, -3.22925044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 51.0,
+        "name": 53.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26909872, -3.22971404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 56.0,
+        "name": 54.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26847456, -3.22978912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 55.0,
+        "name": 55.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.26880471, -3.22972174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 49.0,
+        "name": 56.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.22902107, -3.25276677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 55.0,
+        "name": 57.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.22913371, -3.25288319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 48.0,
+        "name": 58.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": { "type": "Point", "coordinates": [-60.22946728, -3.2523423] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 46.0,
+        "name": 59.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.22950251, -3.25262893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 46.0,
+        "name": 60.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.22887711, -3.25309496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 163.0,
+        "name": 61.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.00144291, -2.78246502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 168.0,
+        "name": 62.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": { "type": "Point", "coordinates": [-55.00118684, -2.7826211] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 148.0,
+        "name": 63.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": { "type": "Point", "coordinates": [-55.00151678, -2.7830693] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 167.0,
+        "name": 64.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": { "type": "Point", "coordinates": [-55.0013137, -2.78316957] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 139.0,
+        "name": 65.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.99993604, -2.78420882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 152.0,
+        "name": 66.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91835251, -2.68537193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 139.0,
+        "name": 67.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91909627, -2.68516527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 149.0,
+        "name": 68.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91790049, -2.68529943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 132.0,
+        "name": 69.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91891581, -2.68503309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 139.0,
+        "name": 70.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91863579, -2.68531936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 139.0,
+        "name": 71.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91914261, -2.68418151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 143.0,
+        "name": 72.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91856762, -2.68416767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 141.0,
+        "name": 73.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91912872, -2.68455226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 143.0,
+        "name": 74.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91859858, -2.68454839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 143.0,
+        "name": 75.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.91885171, -2.68436996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 127.0,
+        "name": 76.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06098763, -8.86579341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 126.0,
+        "name": 77.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06144362, -8.86610479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 118.0,
+        "name": 78.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06117136, -8.86530821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 120.0,
+        "name": 79.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06166759, -8.86555013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 125.0,
+        "name": 80.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": { "type": "Point", "coordinates": [-64.061299, -8.86570166] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 123.0,
+        "name": 81.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06321328, -8.86467323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 119.0,
+        "name": 82.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06363379, -8.86400317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 118.0,
+        "name": 83.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06300374, -8.86464181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 125.0,
+        "name": 84.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06327373, -8.86399816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 117.0,
+        "name": 85.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06334191, -8.86441539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 115.0,
+        "name": 86.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06770724, -8.85017857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 114.0,
+        "name": 87.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": { "type": "Point", "coordinates": [-64.0672672, -8.8499769] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 108.0,
+        "name": 88.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06751224, -8.85059803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 119.0,
+        "name": 89.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": { "type": "Point", "coordinates": [-64.06713349, -8.8505412] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "elevation": 109.0,
+        "name": 90.1,
+        "source": "10.5061/dryad.3tx95x6cc",
+        "type": "terra_preta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.06752171, -8.85032136]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+http://portal.iphan.gov.br/geoserver/SICG/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=SICG:sitios&maxFeatures=50000&outputFormat=SHAPE-ZIP

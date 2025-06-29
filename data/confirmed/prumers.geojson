@@ -1,0 +1,3412 @@
+{
+  "type": "FeatureCollection",
+  "name": "prumers",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "1",
+        "Name": "Lomas gemelas de la U",
+        "UTM_X": 339940.0,
+        "UTM_Y": 8357038.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lomas gemelas de la U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.487691455326669, -14.856271889678666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "3",
+        "Name": "Loma los guineales",
+        "UTM_X": 344691.0,
+        "UTM_Y": 8356979.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma los guineales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.443546585032337, -14.857086856200208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "4",
+        "Name": "Loma de San Juaquincito",
+        "UTM_X": 338267.0,
+        "UTM_Y": 8350176.0,
+        "Tier": null,
+        "Observations": "H: 10 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de San Juaquincito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.503667521035695, -14.918190714014161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "5",
+        "Name": "Irachiti 1 (lomita)",
+        "UTM_X": 340692.0,
+        "UTM_Y": 8362187.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Irachiti 1 (lomita)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.480387044881539, -14.809778711366814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "6",
+        "Name": "Loma de los Tacuarales",
+        "UTM_X": 346716.0,
+        "UTM_Y": 8368995.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de los Tacuarales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.424019858779886, -14.748596848616202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "7",
+        "Name": "Irachiti 2 (Loma grande)",
+        "UTM_X": 340503.0,
+        "UTM_Y": 8363314.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Irachiti 2 (Loma grande)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.482073707936479, -14.799581211111519]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "8",
+        "Name": "Los Cafeces",
+        "UTM_X": 337924.0,
+        "UTM_Y": 8363125.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Los Cafeces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.506044149360903, -14.801134141286184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "9",
+        "Name": "Quillisa 1",
+        "UTM_X": 342310.0,
+        "UTM_Y": 8360379.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Quillisa 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.465465033165273, -14.826216248770359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "10",
+        "Name": "Tacuarita",
+        "UTM_X": 342753.0,
+        "UTM_Y": 8365506.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Tacuarita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.461038621913744, -14.779902411238682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "11",
+        "Name": "Tatoyeque",
+        "UTM_X": 347952.0,
+        "UTM_Y": 8365827.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Tatoyeque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.412724741442716, -14.777301711580549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "12",
+        "Name": "Bali 1",
+        "UTM_X": 354012.0,
+        "UTM_Y": 8367627.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Bali 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.356329987896032, -14.761369446873115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "13",
+        "Name": "Bali 2",
+        "UTM_X": 353894.0,
+        "UTM_Y": 8367839.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Bali 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.357414181762124, -14.759446770477396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "14",
+        "Name": "Trapiche",
+        "UTM_X": 345733.0,
+        "UTM_Y": 8364812.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Trapiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.433397774422843, -14.786348761924872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "16",
+        "Name": "Ibibate",
+        "UTM_X": 348470.0,
+        "UTM_Y": 8362799.0,
+        "Tier": 2.0,
+        "Observations": "H: 20 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Ibibate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.408089396360452, -14.804700136679946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "17",
+        "Name": "Santa Fe",
+        "UTM_X": 351012.0,
+        "UTM_Y": 8360933.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Santa Fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.384580011488751, -14.821709494124834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "18",
+        "Name": "Sinaí",
+        "UTM_X": 351850.0,
+        "UTM_Y": 8360631.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Sinaí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.37681114741082, -14.8244858958943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "19",
+        "Name": "Mururé-urure",
+        "UTM_X": 351903.0,
+        "UTM_Y": 8361739.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Mururé-urure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.37625543907869, -14.814473909293076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "20",
+        "Name": "Santa Elena",
+        "UTM_X": 355264.0,
+        "UTM_Y": 8358575.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Santa Elena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.345204787865455, -14.843257355680755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "21",
+        "Name": "Lomita de Benjamin 3",
+        "UTM_X": 355981.0,
+        "UTM_Y": 8356408.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lomita de Benjamin 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.338662775630141, -14.862883461269041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "22",
+        "Name": "Loma de Benjamin 1",
+        "UTM_X": 356159.0,
+        "UTM_Y": 8356333.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Benjamin 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.337012752867366, -14.863571013944595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "23",
+        "Name": "Loma de la poza de lo Hochoose",
+        "UTM_X": 354198.0,
+        "UTM_Y": 8357302.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de la poza de lo Hochoose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.355182143974162, -14.854705576562081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "24",
+        "Name": "Loma de ida a los portones",
+        "UTM_X": 347792.0,
+        "UTM_Y": 8356755.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de ida a los portones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.414743323465657, -14.859290794436225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "25",
+        "Name": "Loma de la U - Kia aa",
+        "UTM_X": 352776.0,
+        "UTM_Y": 8356111.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de la U - Kia aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.368464297281292, -14.865392389489234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "26",
+        "Name": "Tambata",
+        "UTM_X": 355131.0,
+        "UTM_Y": 8363563.0,
+        "Tier": 2.0,
+        "Observations": "H: 15 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Tambata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.346162059531892, -14.798164289825962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "27",
+        "Name": "Tutumo 1",
+        "UTM_X": 353582.0,
+        "UTM_Y": 8353587.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Tutumo 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.361117037617532, -14.888250746404278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "28",
+        "Name": "Tutumo 2",
+        "UTM_X": 353711.0,
+        "UTM_Y": 8353398.0,
+        "Tier": null,
+        "Observations": "H: 5 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Tutumo 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.3599287967903, -14.889966186204784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "29",
+        "Name": "Benjamin 2",
+        "UTM_X": 356100.0,
+        "UTM_Y": 8356601.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Benjamin 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.337546139466298, -14.861145406172099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "30",
+        "Name": "Isla de monte",
+        "UTM_X": 351031.0,
+        "UTM_Y": 8357023.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Isla de monte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.384628370192772, -14.85705187377074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "31",
+        "Name": "Los portones",
+        "UTM_X": 350407.0,
+        "UTM_Y": 8356070.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Los portones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.39048220577024, -14.86563068802143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "32",
+        "Name": "Loma 1",
+        "UTM_X": 331623.0,
+        "UTM_Y": 8360958.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.564719631159548, -14.820329523514877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "33",
+        "Name": "Cerrito",
+        "UTM_X": 328998.0,
+        "UTM_Y": 8363198.0,
+        "Tier": 2.0,
+        "Observations": "H: 16 m; core area 6,52 ha; max. area: 47,3 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Cerrito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.588959423716929, -14.799917609663735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "36",
+        "Name": "Cerrito - Loma del puente",
+        "UTM_X": 329519.0,
+        "UTM_Y": 8362294.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Cerrito - Loma del puente"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.584178931272987, -14.808121192935051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "37",
+        "Name": "Loma 3",
+        "UTM_X": 333220.0,
+        "UTM_Y": 8361490.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.549848479686659, -14.815621657218355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "38",
+        "Name": "Loma 4",
+        "UTM_X": 332926.0,
+        "UTM_Y": 8360683.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.552631815628942, -14.822896948903768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "39",
+        "Name": "Lidar Area Cerrito - mound 3",
+        "UTM_X": 330901.0,
+        "UTM_Y": 8359790.0,
+        "Tier": 3.0,
+        "Observations": "H: 11 m; core area: 3,9 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar Area Cerrito - mound 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.57150352043864, -14.830840151769305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "40",
+        "Name": "Lidar Area Cerrito - mound 40",
+        "UTM_X": 325637.0,
+        "UTM_Y": 8343053.0,
+        "Tier": 3.0,
+        "Observations": "H: 4 m; corea area: 1,2 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar Area Cerrito - mound 40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.621542526916429, -14.981764234670621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "41",
+        "Name": "Lidar Area Cerrito - mound 41",
+        "UTM_X": 323462.0,
+        "UTM_Y": 8358856.0,
+        "Tier": 3.0,
+        "Observations": "H: 7 m; core area: 3,2 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar Area Cerrito - mound 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.640680891693165, -14.838798787722492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "42",
+        "Name": "Lidar Area Cerrito - mound 42",
+        "UTM_X": 324523.0,
+        "UTM_Y": 8363355.0,
+        "Tier": 3.0,
+        "Observations": "core area: 4,9 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar Area Cerrito - mound 42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.630518880342763, -14.798208355681659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "43",
+        "Name": "Loma de Fernando Velasco",
+        "UTM_X": 319451.0,
+        "UTM_Y": 8364845.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Fernando Velasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.677529809049915, -14.784404399499799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "44",
+        "Name": "-/-",
+        "UTM_X": 321903.0,
+        "UTM_Y": 8367953.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "-/-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.654541843872934, -14.756479975467613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "45",
+        "Name": "Estancia Las Pavas 1",
+        "UTM_X": 317057.0,
+        "UTM_Y": 8377209.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Estancia Las Pavas 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.698900187181806, -14.672502696924768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "46",
+        "Name": "Estancia Las Pavas 3",
+        "UTM_X": 320101.0,
+        "UTM_Y": 8382364.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Estancia Las Pavas 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.670287786105405, -14.626118630581239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "47",
+        "Name": "Estancia Las Pavas 2",
+        "UTM_X": 316163.0,
+        "UTM_Y": 8388881.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Estancia Las Pavas 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.706384921454017, -14.56695624889185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "48",
+        "Name": "Lidar San Nicolas Site 3",
+        "UTM_X": 327306.0,
+        "UTM_Y": 8396162.0,
+        "Tier": 3.0,
+        "Observations": "H: 3 m; core area: 0,8 ha; max. area: 4,7 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar San Nicolas Site 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.602510391989185, -14.50188204779572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "49",
+        "Name": "Lidar San Nicolas Site 2",
+        "UTM_X": 326749.0,
+        "UTM_Y": 8398366.0,
+        "Tier": 3.0,
+        "Observations": "H: 2 m; core area: 1 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar San Nicolas Site 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.607534023321477, -14.481926871296903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "51",
+        "Name": "Lidar San Nicolas site 1 mound 2",
+        "UTM_X": 327194.0,
+        "UTM_Y": 8399796.0,
+        "Tier": 2.0,
+        "Observations": "H: 17 m; core area: 9,7 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar San Nicolas site 1 mound 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.603313371424377, -14.469030611875839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "53",
+        "Name": "Lidar La Punta site 2 mound 2",
+        "UTM_X": 327208.0,
+        "UTM_Y": 8404857.0,
+        "Tier": 2.0,
+        "Observations": "H: 10 m; core area: 5,6 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar La Punta site 2 mound 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.602855810905169, -14.423289668886657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "54",
+        "Name": "Lidar La Punta Sitio 3",
+        "UTM_X": 328025.0,
+        "UTM_Y": 8404710.0,
+        "Tier": 2.0,
+        "Observations": "core area: 2,7 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar La Punta Sitio 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.595288696693544, -14.424669623120861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "55",
+        "Name": "La Punta",
+        "UTM_X": 324528.0,
+        "UTM_Y": 8397381.0,
+        "Tier": 3.0,
+        "Observations": "H: 9 m; core area: 1,9 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "La Punta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.628200965538298, -14.490687478481224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "57",
+        "Name": "Berdun - Narasaquige",
+        "UTM_X": 294196.0,
+        "UTM_Y": 8390775.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Berdun - Narasaquige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.910060040576369, -14.548264826843385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "58",
+        "Name": "Tegere",
+        "UTM_X": 297339.0,
+        "UTM_Y": 8390281.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Tegere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.880939065294925, -14.552965061165535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "59",
+        "Name": "La Loma",
+        "UTM_X": 299927.0,
+        "UTM_Y": 8389533.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "La Loma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.856984896633733, -14.559916345967707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "60",
+        "Name": "Loma Pecine",
+        "UTM_X": 292979.0,
+        "UTM_Y": 8389440.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Pecine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.921454877916986, -14.560236105750411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "61",
+        "Name": "Loma Tanaka",
+        "UTM_X": 303818.0,
+        "UTM_Y": 8386791.0,
+        "Tier": 3.0,
+        "Observations": "H: 5 m; max. area 6,1 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Tanaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.821087087675735, -14.584979530096998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "62",
+        "Name": "Tegere",
+        "UTM_X": 295332.0,
+        "UTM_Y": 8385066.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Tegere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.89996311869146, -14.599940323686246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "63",
+        "Name": "Espíritu Santo",
+        "UTM_X": 304402.0,
+        "UTM_Y": 8381943.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Espíritu Santo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.816027675357574, -14.628832949129885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "64",
+        "Name": "Cernández",
+        "UTM_X": 307414.0,
+        "UTM_Y": 8377608.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Cernández"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.788390276979172, -14.668224956306304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "65",
+        "Name": "Loma Laguna Cernández",
+        "UTM_X": 309441.0,
+        "UTM_Y": 8375592.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Laguna Cernández"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.769720118976608, -14.686587909817357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "66",
+        "Name": "Berdun-Narasaquige",
+        "UTM_X": 290380.0,
+        "UTM_Y": 8386487.0,
+        "Tier": null,
+        "Observations": "H: 3 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Berdun-Narasaquige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.945801714385496, -14.586721034708157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "67",
+        "Name": "El pesine",
+        "UTM_X": 289106.0,
+        "UTM_Y": 8385572.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "El pesine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.957695843626695, -14.594890395310788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "68",
+        "Name": "Loma de Juanicuchi",
+        "UTM_X": 289729.0,
+        "UTM_Y": 8383175.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Juanicuchi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.952106194266008, -14.616598726984252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "69",
+        "Name": "Loma Jocreni",
+        "UTM_X": 288420.0,
+        "UTM_Y": 8379513.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Jocreni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.964548041892073, -14.649587132470248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "70",
+        "Name": "Loma Coimbra",
+        "UTM_X": 292640.0,
+        "UTM_Y": 8371677.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Coimbra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.926000750161521, -14.720723398295812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "71",
+        "Name": "Chuchini",
+        "UTM_X": 290458.0,
+        "UTM_Y": 8371062.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Chuchini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.946308612169432, -14.726111289944235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "72",
+        "Name": "Naranjito",
+        "UTM_X": 292859.0,
+        "UTM_Y": 8369113.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Naranjito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.924170836622139, -14.743909402337865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "73",
+        "Name": "Loma Suarez",
+        "UTM_X": 288695.0,
+        "UTM_Y": 8366972.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Suarez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.963008471477607, -14.762930717126212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "74",
+        "Name": "Muñoz",
+        "UTM_X": 288228.0,
+        "UTM_Y": 8365718.0,
+        "Tier": null,
+        "Observations": "H: 5 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Muñoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.967447015584256, -14.774225027220128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "75",
+        "Name": "Loma de Puerto Ballivián",
+        "UTM_X": 286925.0,
+        "UTM_Y": 8362801.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Puerto Ballivián"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.97978626277451, -14.800479487129744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "76",
+        "Name": "Los Tojos / Catalayut",
+        "UTM_X": 287200.0,
+        "UTM_Y": 8362407.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Los Tojos / Catalayut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.977264463558171, -14.804061587734944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "77",
+        "Name": "-/-",
+        "UTM_X": 286875.0,
+        "UTM_Y": 8359240.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "-/-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.9805431112718, -14.83265248330577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "78",
+        "Name": "la Bomba",
+        "UTM_X": 288007.0,
+        "UTM_Y": 8357936.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "la Bomba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.970134743156635, -14.844525712125368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "79",
+        "Name": "Loma Santa",
+        "UTM_X": 288401.0,
+        "UTM_Y": 8357786.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Santa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.966486945446718, -14.845912457889678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "80",
+        "Name": "Jalisco",
+        "UTM_X": 288543.0,
+        "UTM_Y": 8357153.0,
+        "Tier": null,
+        "Observations": "H: 2 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Jalisco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.965219536594418, -14.851643529507427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "81",
+        "Name": "Cachipere",
+        "UTM_X": 285655.0,
+        "UTM_Y": 8355034.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Cachipere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.992223870794049, -14.870559397935379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "82",
+        "Name": "Cachipere",
+        "UTM_X": 286033.0,
+        "UTM_Y": 8354483.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Cachipere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.988757699791748, -14.875568615971535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "83",
+        "Name": "Loma de la Santíssima Trinidad",
+        "UTM_X": 295094.0,
+        "UTM_Y": 8358987.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de la Santíssima Trinidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.904215744280179, -14.835583474872811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "84",
+        "Name": "Area Cerrito - Mound 4",
+        "UTM_X": 328175.0,
+        "UTM_Y": 8360998.0,
+        "Tier": 3.0,
+        "Observations": "H: 5 m; core area: 1 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Area Cerrito - Mound 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.596750287402728, -14.819748040407843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "85",
+        "Name": "Lomita de la nueva trinidad",
+        "UTM_X": 297953.0,
+        "UTM_Y": 8361048.0,
+        "Tier": null,
+        "Observations": "H: 1 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lomita de la nueva trinidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.877496380624876, -14.81717768074008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "86",
+        "Name": "Colegio Fe y Alegría",
+        "UTM_X": 299129.0,
+        "UTM_Y": 8360764.0,
+        "Tier": null,
+        "Observations": "H: 1 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Colegio Fe y Alegría"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.86659469050295, -14.81983288770043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "87",
+        "Name": "Lomita Cotoca",
+        "UTM_X": 299140.0,
+        "UTM_Y": 8361811.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lomita Cotoca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.866411473866947, -14.810372449170416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "89",
+        "Name": "General Vaca Medrano",
+        "UTM_X": 300932.0,
+        "UTM_Y": 8361485.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "General Vaca Medrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.849791255098168, -14.813452681812928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "90",
+        "Name": "Los Tacuaritas",
+        "UTM_X": 297398.0,
+        "UTM_Y": 8355905.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Los Tacuaritas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.883053943998547, -14.863610012804653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "91",
+        "Name": "Loma del Dr. Skandar",
+        "UTM_X": 295646.0,
+        "UTM_Y": 8352570.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma del Dr. Skandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.899595150028574, -14.89361206727496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "92",
+        "Name": "Palmasolo",
+        "UTM_X": 288715.0,
+        "UTM_Y": 8352578.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Palmasolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.963995763655859, -14.892996838182823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "93",
+        "Name": "Perro Muerto 1",
+        "UTM_X": 305929.0,
+        "UTM_Y": 8350214.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Perro Muerto 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.804220534004017, -14.915674974731239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "94",
+        "Name": "Perro Muerto 2",
+        "UTM_X": 306509.0,
+        "UTM_Y": 8351589.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Perro Muerto 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.798727097069374, -14.903291782685406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "95",
+        "Name": "Los Curupauces",
+        "UTM_X": 304260.0,
+        "UTM_Y": 8369741.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Los Curupauces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.818256917711537, -14.739090920574151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "96",
+        "Name": "Los Sumuqueces 1",
+        "UTM_X": 305324.0,
+        "UTM_Y": 8367848.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Los Sumuqueces 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.80851808398171, -14.756275214388969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "97",
+        "Name": "Los Sumuqueces 2",
+        "UTM_X": 306206.0,
+        "UTM_Y": 8366998.0,
+        "Tier": null,
+        "Observations": "H: 3 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Los Sumuqueces 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.80039051265301, -14.764020560892952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "98",
+        "Name": "Loma de Huberto Torrico",
+        "UTM_X": 305639.0,
+        "UTM_Y": 8363228.0,
+        "Tier": 3.0,
+        "Observations": "H: 5 m; core area: 1,3 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Huberto Torrico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.805937846859663, -14.798048510433448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "99",
+        "Name": "Chichi Gómez",
+        "UTM_X": 305450.0,
+        "UTM_Y": 8362690.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Chichi Gómez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.807733637744846, -14.802896579606152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "100",
+        "Name": "Campamento - Mound 1",
+        "UTM_X": 306605.0,
+        "UTM_Y": 8359823.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Campamento - Mound 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.797218983833133, -14.82888929037974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "101",
+        "Name": "Los Curupauces",
+        "UTM_X": 308062.0,
+        "UTM_Y": 8369362.0,
+        "Tier": null,
+        "Observations": "H: 2 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Los Curupauces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.782979797262513, -14.742790760696854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "102",
+        "Name": "Laguna Cernández 2",
+        "UTM_X": 309424.0,
+        "UTM_Y": 8368261.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Laguna Cernández 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.770412473583775, -14.752837750921259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "103",
+        "Name": "El Chaco 1",
+        "UTM_X": 309608.0,
+        "UTM_Y": 8355406.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "El Chaco 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.769646592589055, -14.869022012132858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "104",
+        "Name": "El Chaco 2",
+        "UTM_X": 310621.0,
+        "UTM_Y": 8353675.0,
+        "Tier": null,
+        "Observations": "H: 2 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "El Chaco 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.760361104362474, -14.884737504384447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "105",
+        "Name": "La Chacra",
+        "UTM_X": 314261.0,
+        "UTM_Y": 8355647.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "La Chacra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.726394991720099, -14.867173355265502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "106",
+        "Name": "Area Cerrito - Mound 3",
+        "UTM_X": 327113.0,
+        "UTM_Y": 8357940.0,
+        "Tier": 3.0,
+        "Observations": "H: 5 m; core area: 2,6 ha; max. area: 15,9 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Area Cerrito - Mound 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.606820596247118, -14.847316937753275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "107",
+        "Name": "Pancho Román",
+        "UTM_X": 328799.0,
+        "UTM_Y": 8350032.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Pancho Román"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.591679581735505, -14.918896959983757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "108",
+        "Name": "Salvatierra",
+        "UTM_X": 340133.0,
+        "UTM_Y": 8354024.0,
+        "Tier": 2.0,
+        "Observations": "H: 9 m; core area: 4,0 ha; max. area: 21,1 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Salvatierra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.486084492535127, -14.883524852576537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "109",
+        "Name": "Población de Casarabe",
+        "UTM_X": 341110.0,
+        "UTM_Y": 8355066.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Población de Casarabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.476940590082407, -14.874165603463224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "110",
+        "Name": "Loma Alta de Casarabe",
+        "UTM_X": 341495.0,
+        "UTM_Y": 8355493.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Alta de Casarabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.473336524910749, -14.870329242452428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "111",
+        "Name": "Víbora",
+        "UTM_X": 342448.0,
+        "UTM_Y": 8357908.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Víbora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.464333141701033, -14.848558265094448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "112",
+        "Name": "Ibiato",
+        "UTM_X": 344164.0,
+        "UTM_Y": 8359702.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Ibiato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.448279859119083, -14.832444338986807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "113",
+        "Name": "Didier",
+        "UTM_X": 342404.0,
+        "UTM_Y": 8363750.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Didier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.46438698572787, -14.795753339295626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "114",
+        "Name": "del Tigre",
+        "UTM_X": 351531.0,
+        "UTM_Y": 8380105.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "del Tigre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.37866739154633, -14.648446536722695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "115",
+        "Name": "Kenia",
+        "UTM_X": 354426.0,
+        "UTM_Y": 8376798.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Kenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.351973546237545, -14.678496091827435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "116",
+        "Name": "Dulcita",
+        "UTM_X": 358778.0,
+        "UTM_Y": 8379326.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Dulcita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.311427294158051, -14.655876966968387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "117",
+        "Name": "San Silvestre",
+        "UTM_X": 359274.0,
+        "UTM_Y": 8379131.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "San Silvestre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.306832604986127, -14.657665520836307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "119",
+        "Name": "Viña Florida",
+        "UTM_X": 346400.0,
+        "UTM_Y": 8350389.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Viña Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.428057744770527, -14.916749792359061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "120",
+        "Name": "Villa Caterine",
+        "UTM_X": 346311.0,
+        "UTM_Y": 8350376.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Villa Caterine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.428885792134935, -14.916862128739599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "121",
+        "Name": "-/-",
+        "UTM_X": 338554.0,
+        "UTM_Y": 8348904.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "-/-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.501079664819642, -14.929704777637095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "122",
+        "Name": "19 de Junio",
+        "UTM_X": 346224.0,
+        "UTM_Y": 8346286.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "19 de Junio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.429939058991252, -14.95382433109998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "123",
+        "Name": "Curva de Villa Banzer",
+        "UTM_X": 346848.0,
+        "UTM_Y": 8345730.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Curva de Villa Banzer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.424171030843553, -14.958885966754377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "124",
+        "Name": "Villa Banzer",
+        "UTM_X": 348572.0,
+        "UTM_Y": 8346877.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Villa Banzer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.408075279406901, -14.948618221773781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "125",
+        "Name": "Loma de Balvino Pardo",
+        "UTM_X": 349395.0,
+        "UTM_Y": 8347776.0,
+        "Tier": null,
+        "Observations": "H: 6 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Balvino Pardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.400371443776336, -14.940539597801921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "126",
+        "Name": "19 de Junio / 76",
+        "UTM_X": 351444.0,
+        "UTM_Y": 8346527.0,
+        "Tier": 2.0,
+        "Observations": "H: 10 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "19 de Junio / 76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.381395415287443, -14.951944775217502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "127",
+        "Name": "Loma de don Antonio Vaca",
+        "UTM_X": 354131.0,
+        "UTM_Y": 8348022.0,
+        "Tier": null,
+        "Observations": "H: 5 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de don Antonio Vaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.356329669332283, -14.938581625339113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "128",
+        "Name": "Loma de la Laguna El Tamarindo",
+        "UTM_X": 356006.0,
+        "UTM_Y": 8345774.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de la Laguna El Tamarindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.339024844917631, -14.959003591936487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "129",
+        "Name": "Loma de Carlos Nosa Teco",
+        "UTM_X": 359023.0,
+        "UTM_Y": 8345429.0,
+        "Tier": null,
+        "Observations": "H: 6 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Carlos Nosa Teco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.310993503440159, -14.962284821081914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "130",
+        "Name": "Loma de Desiderio Nosa",
+        "UTM_X": 357072.0,
+        "UTM_Y": 8343857.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Desiderio Nosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.32922065449263, -14.976388906711215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "131",
+        "Name": "Ave María",
+        "UTM_X": 364864.0,
+        "UTM_Y": 8344590.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Ave María"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.256729779163464, -14.970174091588861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "132",
+        "Name": "Guajojó",
+        "UTM_X": 364027.0,
+        "UTM_Y": 8340938.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Guajojó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.264706168231484, -15.003141601405174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "133",
+        "Name": "Latorre",
+        "UTM_X": 363538.0,
+        "UTM_Y": 8340484.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Latorre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.269277856506733, -15.007219997715447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "134",
+        "Name": "Loma del coregidor",
+        "UTM_X": 359691.0,
+        "UTM_Y": 8340257.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma del coregidor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.305065971652695, -15.009069507092899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "135",
+        "Name": "Loma de Leonor Chávez",
+        "UTM_X": 356866.0,
+        "UTM_Y": 8342104.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Leonor Chávez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.331234006650149, -14.992222726625124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "136",
+        "Name": "de Juan Carlos Fernández",
+        "UTM_X": 355271.0,
+        "UTM_Y": 8341326.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "de Juan Carlos Fernández"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.346109559596286, -14.999167702342161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "137",
+        "Name": "Loma del Carmen",
+        "UTM_X": 354190.0,
+        "UTM_Y": 8342211.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma del Carmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.356111415275123, -14.99110882260959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "138",
+        "Name": "Buen Jesús",
+        "UTM_X": 352873.0,
+        "UTM_Y": 8342664.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Buen Jesús"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.368331713639947, -14.986941094097155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "139",
+        "Name": "Estrella de Belén",
+        "UTM_X": 354373.0,
+        "UTM_Y": 8341597.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Estrella de Belén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.354444681992675, -14.996668702272958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "140",
+        "Name": "Loma 5",
+        "UTM_X": 354374.0,
+        "UTM_Y": 8341477.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.354442210408251, -14.997753400363564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "141",
+        "Name": "Tokio",
+        "UTM_X": 352796.0,
+        "UTM_Y": 8340573.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Tokio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.369167941595549, -15.005836580196558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "142",
+        "Name": "de Dante Cosio",
+        "UTM_X": 351961.0,
+        "UTM_Y": 8340322.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "de Dante Cosio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.376947338030391, -15.008058430175701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "143",
+        "Name": "de Manuela Herrera",
+        "UTM_X": 352144.0,
+        "UTM_Y": 8339801.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "de Manuela Herrera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.375275686102754, -15.012777830502001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "144",
+        "Name": "Simeón Negrete",
+        "UTM_X": 350944.0,
+        "UTM_Y": 8340562.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Simeón Negrete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.386390746111374, -15.005831762104446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "145",
+        "Name": "Santo Domingo",
+        "UTM_X": 347800.0,
+        "UTM_Y": 8340092.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Santo Domingo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.415655181441196, -15.00989988525372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "146",
+        "Name": "El Cuarto del Doctor Sergio Ortiz",
+        "UTM_X": 355082.0,
+        "UTM_Y": 8337975.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "El Cuarto del Doctor Sergio Ortiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.348057049731267, -15.029445992169718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "147",
+        "Name": "de Wilfredo Vaca Martínez",
+        "UTM_X": 362127.0,
+        "UTM_Y": 8337656.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "de Wilfredo Vaca Martínez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.282552283269482, -15.032708553651922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "148",
+        "Name": "Carina Elita",
+        "UTM_X": 358921.0,
+        "UTM_Y": 8335325.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Carina Elita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.312499222330203, -15.053607783972067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "149",
+        "Name": "Valladolid",
+        "UTM_X": 358775.0,
+        "UTM_Y": 8334771.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.313887949042837, -15.058607418446231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "150",
+        "Name": "Poza Honda",
+        "UTM_X": 362939.0,
+        "UTM_Y": 8334325.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Poza Honda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.275179106648551, -15.062859753879666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "151",
+        "Name": "Pero Achéau",
+        "UTM_X": 356693.0,
+        "UTM_Y": 8333221.0,
+        "Tier": null,
+        "Observations": "H: 5 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Pero Achéau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.333341351891335, -15.072504461347703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "152",
+        "Name": "-/-",
+        "UTM_X": 356037.0,
+        "UTM_Y": 8333218.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "-/-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.339443814314322, -15.0724956072079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "153",
+        "Name": "de José Luis Peña",
+        "UTM_X": 354030.0,
+        "UTM_Y": 8334189.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "de José Luis Peña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.358057715019115, -15.063608038632998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "154",
+        "Name": "La Asunta",
+        "UTM_X": 347651.0,
+        "UTM_Y": 8331295.0,
+        "Tier": null,
+        "Observations": "H: 6 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "La Asunta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.417566413086405, -15.089402127814958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "155",
+        "Name": "-/-",
+        "UTM_X": 346712.0,
+        "UTM_Y": 8330777.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "-/-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.426332863215279, -15.094029144168553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "156",
+        "Name": "Loma de San Marcos - La Victoria",
+        "UTM_X": 350237.0,
+        "UTM_Y": 8325881.0,
+        "Tier": null,
+        "Observations": "H: 6 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de San Marcos - La Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.393829049506138, -15.138485580376225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "157",
+        "Name": "Loma de Luis Román",
+        "UTM_X": 354964.0,
+        "UTM_Y": 8328877.0,
+        "Tier": null,
+        "Observations": "H: 3 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Luis Román"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.349672839188727, -15.111673123307654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "158",
+        "Name": "Loma Rica",
+        "UTM_X": 359279.0,
+        "UTM_Y": 8330348.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.309444504614802, -15.098613091796217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "159",
+        "Name": "Vistosa",
+        "UTM_X": 362027.0,
+        "UTM_Y": 8330088.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Vistosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.283892433210326, -15.101109645946265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "160",
+        "Name": "San Juan de Mocobí",
+        "UTM_X": 357350.0,
+        "UTM_Y": 8327507.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "San Juan de Mocobí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.327550594943773, -15.12418751094204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "161",
+        "Name": "Soledad",
+        "UTM_X": 368628.0,
+        "UTM_Y": 8329665.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Soledad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.22249970339287, -15.105273225575905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "162",
+        "Name": "Solano",
+        "UTM_X": 372334.0,
+        "UTM_Y": 8328762.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Solano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.188063827497984, -15.113619273824364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "162",
+        "Name": "Bei",
+        "UTM_X": 372334.0,
+        "UTM_Y": 8328762.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Bei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.188063827497984, -15.113619273824364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "163",
+        "Name": "Mur - 1",
+        "UTM_X": 378633.0,
+        "UTM_Y": 8328919.0,
+        "Tier": null,
+        "Observations": "H: 6 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Mur - 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.129445990506781, -15.112500380401746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "164",
+        "Name": "Mur - 2",
+        "UTM_X": 385943.0,
+        "UTM_Y": 8323516.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Mur - 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.061670764688387, -15.161670535542102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "165",
+        "Name": "Escuela Caimanes",
+        "UTM_X": 386928.0,
+        "UTM_Y": 8323583.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Escuela Caimanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.052500257542974, -15.161107854700761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "166",
+        "Name": "El Tacuaral",
+        "UTM_X": 386595.0,
+        "UTM_Y": 8322580.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "El Tacuaral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.055644522402389, -15.170160041988275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "167",
+        "Name": "-/-",
+        "UTM_X": 354220.0,
+        "UTM_Y": 8312018.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "-/-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.357568805390144, -15.264012257740081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "168",
+        "Name": "Landivar",
+        "UTM_X": 342107.0,
+        "UTM_Y": 8318852.0,
+        "Tier": 1.0,
+        "Observations": "H: 10 m; core area: 11 ha; max. area: 314,8 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Landivar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.469915940159609, -15.201534805682222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "174",
+        "Name": "Chocolatal - 2",
+        "UTM_X": 319796.0,
+        "UTM_Y": 8331949.0,
+        "Tier": null,
+        "Observations": "H: 5 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Chocolatal - 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.676630051988866, -15.081721767466284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "175",
+        "Name": "Chocolatal - 1",
+        "UTM_X": 319558.0,
+        "UTM_Y": 8332865.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Chocolatal - 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.678778784386395, -15.073427241725341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "176",
+        "Name": "El Coquino",
+        "UTM_X": 319942.0,
+        "UTM_Y": 8335922.0,
+        "Tier": null,
+        "Observations": "H: 1 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "El Coquino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.674991226250228, -15.04582665342307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "177",
+        "Name": "Chichi Munguía",
+        "UTM_X": 315198.0,
+        "UTM_Y": 8336599.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Chichi Munguía"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.719059260844858, -15.039378799850912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "178",
+        "Name": "Córdoba",
+        "UTM_X": 310557.0,
+        "UTM_Y": 8339318.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.762014531460707, -15.014476729224178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "179",
+        "Name": "-/-",
+        "UTM_X": 313200.0,
+        "UTM_Y": 8338192.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "-/-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.737522363241553, -15.024841449611353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "180",
+        "Name": "San Antonio",
+        "UTM_X": 315738.0,
+        "UTM_Y": 8339769.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "San Antonio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.713809044991208, -15.010769014381138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "181",
+        "Name": "Belleza",
+        "UTM_X": 316022.0,
+        "UTM_Y": 8340594.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Belleza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.711109085628422, -15.003333225182356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "182",
+        "Name": "Aldo Monasterio",
+        "UTM_X": 320980.0,
+        "UTM_Y": 8338821.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Aldo Monasterio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.665134869601133, -15.019698346586916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "183",
+        "Name": "-/-",
+        "UTM_X": 322312.0,
+        "UTM_Y": 8338716.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "-/-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.652756420116802, -15.02073762792109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "185",
+        "Name": "Cotoca",
+        "UTM_X": 328673.0,
+        "UTM_Y": 8342813.0,
+        "Tier": 1.0,
+        "Observations": "H: 20 m; core area: 22,3 ha; max. area: 147,2 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Cotoca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.593332230889445, -14.984132340660373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "186",
+        "Name": "Sirari (Chocolatalito)",
+        "UTM_X": 324716.0,
+        "UTM_Y": 8343896.0,
+        "Tier": 2.0,
+        "Observations": "H: 10 m; core area: 3,1 ha; max. area: 26,8 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Sirari (Chocolatalito)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.630047535668339, -14.974084492061895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "187",
+        "Name": "Samuray",
+        "UTM_X": 324559.0,
+        "UTM_Y": 8344672.0,
+        "Tier": 3.0,
+        "Observations": "H: 3 m; core area: 1,3 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Samuray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.631454049025649, -14.967060903682489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "189",
+        "Name": "Lidar Area Cotoca - s.n. 1",
+        "UTM_X": 322202.0,
+        "UTM_Y": 8346234.0,
+        "Tier": 4.0,
+        "Observations": "H: 2 m; core area: 0,25 ha; max. area: 2,3 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar Area Cotoca - s.n. 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.653257497151088, -14.952786625635913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "190",
+        "Name": "Somopae",
+        "UTM_X": 321321.0,
+        "UTM_Y": 8347058.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Somopae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.661389722658441, -14.945280328009803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "191",
+        "Name": "Miraflores",
+        "UTM_X": 320600.0,
+        "UTM_Y": 8346924.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.668101039433694, -14.946442502212744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "192",
+        "Name": "Loma de Juan Rivera",
+        "UTM_X": 320080.0,
+        "UTM_Y": 8346298.0,
+        "Tier": 4.0,
+        "Observations": "H: 2 m; core area: 0,28 ha; max. area: 2,5 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma de Juan Rivera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.672978485742846, -14.952064560691596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "193",
+        "Name": "Santa María",
+        "UTM_X": 317270.0,
+        "UTM_Y": 8345209.0,
+        "Tier": 2.0,
+        "Observations": "H: 7 m; core area: 4,7 ha; max. area: 26,7 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Santa María"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.699176503292946, -14.961713275978141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "194",
+        "Name": "Mendoza",
+        "UTM_X": 343929.0,
+        "UTM_Y": 8354012.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Mendoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.450806713244972, -14.883859224545635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "195",
+        "Name": "Lidar Area Cotoca - Mound 195",
+        "UTM_X": 320698.0,
+        "UTM_Y": 8342798.0,
+        "Tier": 3.0,
+        "Observations": "H: 5 m; core area: 1,2 ha ; max. area: 5,1 ha",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Lidar Area Cotoca - Mound 195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.667478404806317, -14.983737489162429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "196",
+        "Name": "Puesto militar de Casarabe",
+        "UTM_X": 346002.0,
+        "UTM_Y": 8352784.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Puesto militar de Casarabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.431614111365477, -14.895079556473911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "197",
+        "Name": "El Cerrito",
+        "UTM_X": 301377.0,
+        "UTM_Y": 8366539.0,
+        "Tier": null,
+        "Observations": "H: 4 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "El Cerrito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.845271618918019, -14.767814487805904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "198",
+        "Name": "-/-",
+        "UTM_X": 294153.0,
+        "UTM_Y": 8346722.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "-/-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.913935509960567, -14.946340452476923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "199",
+        "Name": "Trinidad Viejo",
+        "UTM_X": 288214.0,
+        "UTM_Y": 8347202.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Trinidad Viejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.969092930370564, -14.941534025194384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "209",
+        "Name": "Campamento - Mound 2",
+        "UTM_X": 306823.0,
+        "UTM_Y": 8359895.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Campamento - Mound 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.795188456143862, -14.828254445361139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "211",
+        "Name": "Loma Colegio",
+        "UTM_X": 310656.0,
+        "UTM_Y": 8340075.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma Colegio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.761037991119309, -15.007642905551604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "213",
+        "Name": "Loma del gran cacique",
+        "UTM_X": 361359.0,
+        "UTM_Y": 8341551.0,
+        "Tier": null,
+        "Observations": "H: 6 m",
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Loma del gran cacique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.28948399049996, -14.997461563265377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "301",
+        "Name": "Mari",
+        "UTM_X": 281137.0,
+        "UTM_Y": 8352695.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Mari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.034395813305323, -14.891325372262353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No": "302",
+        "Name": "Kiusiu",
+        "UTM_X": 279766.0,
+        "UTM_Y": 8353847.0,
+        "Tier": null,
+        "Observations": null,
+        "dataset_id": "prumers",
+        "type": "lidar_located_earthwork",
+        "uid": "Kiusiu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.047035585648899, -14.880803021563118]
+      }
+    }
+  ]
+}

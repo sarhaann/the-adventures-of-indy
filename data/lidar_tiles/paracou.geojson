@@ -1,0 +1,3645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_581000.laz/284750_581000.laz",
+        "filename": "284750_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94179962104294, 5.254084492660804],
+            [-52.93970139402539, 5.2540910194413195],
+            [-52.93970658134279, 5.255767463519735],
+            [-52.941804813963, 5.255760934645434],
+            [-52.94179962104294, 5.254084492660804]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_581250.laz/284750_581250.laz",
+        "filename": "284750_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94179963520415, 5.255399384808734],
+            [-52.939705462439015, 5.255405900596605],
+            [-52.939713578009254, 5.258027796772491],
+            [-52.94180775952283, 5.258021277716336],
+            [-52.94179963520415, 5.255399384808734]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_581500.laz/284750_581500.laz",
+        "filename": "284750_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.941799694104134, 5.257659736900459],
+            [-52.93971245861754, 5.257666233876983],
+            [-52.93972057772614, 5.260288129852527],
+            [-52.94180782193596, 5.260281629618541],
+            [-52.941799694104134, 5.257659736900459]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_581750.laz/284750_581750.laz",
+        "filename": "284750_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94179966581494, 5.259920089119093],
+            [-52.939719457846486, 5.259926566984652],
+            [-52.939727580493525, 5.26254846275977],
+            [-52.94180779715959, 5.26254198164771],
+            [-52.94179966581494, 5.259920089119093]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_582000.laz/284750_582000.laz",
+        "filename": "284750_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94179973072188, 5.26218044090265],
+            [-52.9397264601259, 5.2621868999195405],
+            [-52.939734586311424, 5.264808795494147],
+            [-52.94180786557976, 5.264802333241581],
+            [-52.94179973072188, 5.26218044090265]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_582250.laz/284750_582250.laz",
+        "filename": "284750_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.941799798632495, 5.264440792531956],
+            [-52.93973346545584, 5.264447232681575],
+            [-52.93974159517993, 5.267069128055584],
+            [-52.941807937003645, 5.267062684681111],
+            [-52.941799798632495, 5.264440792531956]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_582500.laz/284750_582500.laz",
+        "filename": "284750_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94179968915927, 5.266701144569687],
+            [-52.939740473836366, 5.266707565270679],
+            [-52.93974860709906, 5.269329460444006],
+            [-52.94180783104297, 5.269323036529264],
+            [-52.94179968915927, 5.266701144569687]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_582750.laz/284750_582750.laz",
+        "filename": "284750_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94179985327075, 5.268961495609008],
+            [-52.93974748526752, 5.268967897686782],
+            [-52.93975562206891, 5.271589792659342],
+            [-52.941807998668175, 5.2715833873785],
+            [-52.94179985327075, 5.268961495609008]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_583000.laz/284750_583000.laz",
+        "filename": "284750_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.941799930192204, 5.271221846775232],
+            [-52.93975449974936, 5.27122822992981],
+            [-52.9397626400895, 5.273850124701518],
+            [-52.94180807910302, 5.273843738354694],
+            [-52.941799930192204, 5.271221846775232]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_583250.laz/284750_583250.laz",
+        "filename": "284750_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94179991992267, 5.273482198068647],
+            [-52.93976151728195, 5.273488561999689],
+            [-52.939769661160895, 5.276110456570459],
+            [-52.941808072346525, 5.2761040894581335],
+            [-52.94179991992267, 5.273482198068647]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_583500.laz/284750_583500.laz",
+        "filename": "284750_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94180009304643, 5.275742548643966],
+            [-52.93976853786534, 5.2757488938963455],
+            [-52.93977668528316, 5.278370788266094],
+            [-52.94180824898412, 5.278364439843111],
+            [-52.94180009304643, 5.275742548643966]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_583750.laz/284750_583750.laz",
+        "filename": "284750_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.941800088783836, 5.278002899628306],
+            [-52.93977556149958, 5.278009225619708],
+            [-52.93978371245633, 5.280631119788346],
+            [-52.94180824823465, 5.280624790637306],
+            [-52.941800088783836, 5.278002899628306]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_584000.laz/284750_584000.laz",
+        "filename": "284750_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94180008752442, 5.28026325045812],
+            [-52.93978258818473, 5.2802695571696985],
+            [-52.93979074268048, 5.282891451137144],
+            [-52.941808250488386, 5.282885141276889],
+            [-52.94180008752442, 5.28026325045812]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/284750_584250.laz/284750_584250.laz",
+        "filename": "284750_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/284750_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94180017946426, 5.282523600851113],
+            [-52.93978961792084, 5.282529888546247],
+            [-52.93979349964207, 5.283777591391779],
+            [-52.94180406520268, 5.283771302203413],
+            [-52.94180017946426, 5.282523600851113]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_581000.laz/285000_581000.laz",
+        "filename": "285000_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94006214313912, 5.254112862995196],
+            [-52.93744666169225, 5.254120990426381],
+            [-52.937451772023515, 5.255774471733504],
+            [-52.940067260358596, 5.255766341730772],
+            [-52.94006214313912, 5.254112862995196]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_581250.laz/285000_581250.laz",
+        "filename": "285000_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94006614124709, 5.255404778885231],
+            [-52.93745065441842, 5.2554129083256464],
+            [-52.93745876056912, 5.258034808016572],
+            [-52.94007425832407, 5.258026674498473],
+            [-52.94006614124709, 5.255404778885231]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_581500.laz/285000_581500.laz",
+        "filename": "285000_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94007313872453, 5.257665111680555],
+            [-52.93745764247666, 5.257673244636333],
+            [-52.93746575216162, 5.260295144126942],
+            [-52.94008125934054, 5.260287007093449],
+            [-52.94007313872453, 5.257665111680555]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_581750.laz/285000_581750.laz",
+        "filename": "285000_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.940080139252956, 5.259925444303165],
+            [-52.93746463358177, 5.259933580774333],
+            [-52.937472746801056, 5.262555480064539],
+            [-52.94008826340805, 5.262547339515631],
+            [-52.940080139252956, 5.259925444303165]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_582000.laz/285000_582000.laz",
+        "filename": "285000_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.940087142832425, 5.262185776752991],
+            [-52.93747162773382, 5.26219391673957],
+            [-52.93747974448749, 5.26481581582929],
+            [-52.94009527052667, 5.2648076717649435],
+            [-52.940087142832425, 5.262185776752991]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_582250.laz/285000_582250.laz",
+        "filename": "285000_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94009414946298, 5.264446109029961],
+            [-52.93747862493285, 5.264454252531976],
+            [-52.93748674522097, 5.267076151421122],
+            [-52.940102280696436, 5.2670680038413105],
+            [-52.94009414946298, 5.264446109029961]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_582500.laz/285000_582500.laz",
+        "filename": "285000_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.940101159144675, 5.266706441133997],
+            [-52.937485625178915, 5.266714588151474],
+            [-52.937493749001554, 5.269336486839962],
+            [-52.94010929391741, 5.269328335744661],
+            [-52.940101159144675, 5.266706441133997]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_582750.laz/285000_582750.laz",
+        "filename": "285000_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94010817187758, 5.2689667730650305],
+            [-52.937492628472086, 5.268974923597991],
+            [-52.93750075582929, 5.271596822085737],
+            [-52.94011631018965, 5.271588667474923],
+            [-52.94010817187758, 5.2689667730650305]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_583000.laz/285000_583000.laz",
+        "filename": "285000_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.940115187661746, 5.271227104822983],
+            [-52.9374996348124, 5.271235258871454],
+            [-52.93750776570425, 5.27385715715837],
+            [-52.94012332951322, 5.27384899903202],
+            [-52.940115187661746, 5.271227104822983]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_583250.laz/285000_583250.laz",
+        "filename": "285000_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.940122206497215, 5.273487436407783],
+            [-52.937506644199914, 5.273495593971788],
+            [-52.937514778626465, 5.276117492057791],
+            [-52.94013035188816, 5.276109330415878],
+            [-52.940122206497215, 5.273487436407783]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_583500.laz/285000_583500.laz",
+        "filename": "285000_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.940129228384045, 5.275747767819358],
+            [-52.93751365663469, 5.275755928898921],
+            [-52.937521794596, 5.278377826783927],
+            [-52.940137377314514, 5.278369661626427],
+            [-52.940129228384045, 5.275747767819358]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_583750.laz/285000_583750.laz",
+        "filename": "285000_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9401362533223, 5.278008099057635],
+            [-52.937520672116776, 5.27801626365278],
+            [-52.937528813612914, 5.280638161336701],
+            [-52.94014440579237, 5.280629992663591],
+            [-52.9401362533223, 5.278008099057635]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_584000.laz/285000_584000.laz",
+        "filename": "285000_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94014328131203, 5.280268430122538],
+            [-52.93752769064622, 5.280276598233288],
+            [-52.93753583567726, 5.28289849571604],
+            [-52.940151437321745, 5.282890323527296],
+            [-52.94014328131203, 5.280268430122538]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285000_584250.laz/285000_584250.laz",
+        "filename": "285000_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285000_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.94015031235328, 5.282528761013994],
+            [-52.937534712223105, 5.282536932640377],
+            [-52.937538565273684, 5.283776861609043],
+            [-52.940154170597395, 5.283768688054118],
+            [-52.94015031235328, 5.282528761013994]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_581000.laz/285250_581000.laz",
+        "filename": "285250_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9378074316242, 5.254149435488767],
+            [-52.9351919465197, 5.254157553527855],
+            [-52.935196959657404, 5.255781471808183],
+            [-52.93781245152702, 5.2557733512464635],
+            [-52.9378074316242, 5.254149435488767]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_581250.laz/285250_581250.laz",
+        "filename": "285250_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.937811333714194, 5.255411787916106],
+            [-52.93519584335101, 5.255419907916163],
+            [-52.93520394008211, 5.258041811118044],
+            [-52.937819441371644, 5.25803368704504],
+            [-52.937811333714194, 5.255411787916106]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_581500.laz/285250_581500.laz",
+        "filename": "285250_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.937818323071355, 5.257672123742301],
+            [-52.935202823288904, 5.257680247253639],
+            [-52.93521092355016, 5.260302150255228],
+            [-52.93782643426373, 5.260294022670913],
+            [-52.937818323071355, 5.257672123742301]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_581750.laz/285250_581750.laz",
+        "filename": "285250_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93782531547596, 5.259932459395805],
+            [-52.93520980627013, 5.259940586418447],
+            [-52.9352179100616, 5.26256248921966],
+            [-52.93783343020332, 5.26255435812401],
+            [-52.93782531547596, 5.259932459395805]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_582000.laz/285250_582000.laz",
+        "filename": "285250_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.937832310928066, 5.262192794876545],
+            [-52.93521679229475, 5.262200925410519],
+            [-52.93522489961651, 5.264822828011268],
+            [-52.93784042919046, 5.264814693404261],
+            [-52.937832310928066, 5.262192794876545]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_582250.laz/285250_582250.laz",
+        "filename": "285250_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.937839309427716, 5.264453130184449],
+            [-52.93522378136282, 5.2644612642297774],
+            [-52.93523189221491, 5.267083166629977],
+            [-52.93784743122522, 5.267075028511588],
+            [-52.937839309427716, 5.264453130184449]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_582500.laz/285250_582500.laz",
+        "filename": "285250_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.937846310974976, 5.26671346531944],
+            [-52.93523077347439, 5.266721602876147],
+            [-52.93523888785688, 5.269343505075714],
+            [-52.93785443630765, 5.269335363445919],
+            [-52.937846310974976, 5.26671346531944]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_582750.laz/285250_582750.laz",
+        "filename": "285250_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9378533155699, 5.268973800281449],
+            [-52.935237768629506, 5.268981941349558],
+            [-52.935245886542475, 5.271603843348408],
+            [-52.9378614444378, 5.271595698207181],
+            [-52.9378533155699, 5.268973800281449]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_583000.laz/285250_583000.laz",
+        "filename": "285250_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93786032321254, 5.271234135070401],
+            [-52.935244766828234, 5.271242279649936],
+            [-52.93525288827173, 5.273864181447981],
+            [-52.937868455615735, 5.273856032795298],
+            [-52.93786032321254, 5.271234135070401]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_583250.laz/285250_583250.laz",
+        "filename": "285250_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93786733390295, 5.273494469686219],
+            [-52.93525176807062, 5.273502617777207],
+            [-52.935259893044716, 5.2761245193743616],
+            [-52.9378754698415, 5.2761163672102],
+            [-52.93786733390295, 5.273494469686219]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_583500.laz/285250_583500.laz",
+        "filename": "285250_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93787434764117, 5.275754804128834],
+            [-52.935258772356725, 5.275762955731297],
+            [-52.93526690086148, 5.278384857127478],
+            [-52.937882487115154, 5.278376701451814],
+            [-52.93787434764117, 5.275754804128834]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_583750.laz/285250_583750.laz",
+        "filename": "285250_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.937881364427284, 5.278015138398171],
+            [-52.9352657796866, 5.278023293512134],
+            [-52.93527391172208, 5.280645194707255],
+            [-52.93788950743674, 5.28063703552006],
+            [-52.937881364427284, 5.278015138398171]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_584000.laz/285250_584000.laz",
+        "filename": "285250_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93788838426132, 5.280275472494155],
+            [-52.93527279006031, 5.280283631119643],
+            [-52.93528092562656, 5.282905532113618],
+            [-52.937896530806334, 5.282897369414872],
+            [-52.93788838426132, 5.280275472494155]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285250_584250.laz/285250_584250.laz",
+        "filename": "285250_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285250_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93789540714335, 5.282535806416714],
+            [-52.93527980347788, 5.28254396855375],
+            [-52.93528361893274, 5.283773230391097],
+            [-52.93789922774708, 5.28376506634433],
+            [-52.93789540714335, 5.282535806416714]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_581000.laz/285500_581000.laz",
+        "filename": "285500_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.935552717687486, 5.254186271165683],
+            [-52.93293722892833, 5.254194379812921],
+            [-52.93294214424801, 5.2557884637437216],
+            [-52.935557639648046, 5.255780352623076],
+            [-52.935552717687486, 5.254186271165683]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_581250.laz/285500_581250.laz",
+        "filename": "285500_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93555652313391, 5.255418788808464],
+            [-52.93294102924031, 5.2554268993681],
+            [-52.93294911655175, 5.258048806076856],
+            [-52.935564621371775, 5.258040691449008],
+            [-52.93555652313391, 5.255418788808464]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_581500.laz/285500_581500.laz",
+        "filename": "285500_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93556350437074, 5.257679127662012],
+            [-52.93294800105781, 5.257687241728846],
+            [-52.932956091895285, 5.260309148237334],
+            [-52.93557160613941, 5.260301030102258],
+            [-52.93556350437074, 5.257679127662012]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_581750.laz/285500_581750.laz",
+        "filename": "285500_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93557048865147, 5.259939466342889],
+            [-52.932954975915095, 5.259947583916946],
+            [-52.932963070278696, 5.262569490225081],
+            [-52.935578593951014, 5.262561368582754],
+            [-52.93557048865147, 5.259939466342889]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_582000.laz/285500_582000.laz",
+        "filename": "285500_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93557747597616, 5.262199804851022],
+            [-52.932961953812246, 5.262207925932331],
+            [-52.93297005170201, 5.264829832040025],
+            [-52.935585584806645, 5.264821706890423],
+            [-52.93557747597616, 5.262199804851022]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_582250.laz/285500_582250.laz",
+        "filename": "285500_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93558446634486, 5.2644601431863425],
+            [-52.93296893474929, 5.264468267774921],
+            [-52.93297703616529, 5.267090173682092],
+            [-52.93559257870634, 5.267082045025188],
+            [-52.93558446634486, 5.2644601431863425]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_582500.laz/285500_582500.laz",
+        "filename": "285500_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93559145975762, 5.266720481348773],
+            [-52.93297591872629, 5.2667286094446455],
+            [-52.932984023668595, 5.269350515151207],
+            [-52.935599575650166, 5.269342382986981],
+            [-52.93559145975762, 5.266720481348773]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_582750.laz/285500_582750.laz",
+        "filename": "285500_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93559845621451, 5.268980819338236],
+            [-52.932982905743316, 5.268988950941431],
+            [-52.93299101421198, 5.2716108564473],
+            [-52.93560657563818, 5.271602720775724],
+            [-52.93559845621451, 5.268980819338236]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_583000.laz/285500_583000.laz",
+        "filename": "285500_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93560545571557, 5.271241157154666],
+            [-52.932989895800404, 5.271249292265205],
+            [-52.93299800779549, 5.273871197570294],
+            [-52.93561357867042, 5.273863058391344],
+            [-52.93560545571557, 5.271241157154666]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_583250.laz/285500_583250.laz",
+        "filename": "285500_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93561245826085, 5.273501494797984],
+            [-52.93299688889761, 5.273509633415892],
+            [-52.93300500441918, 5.276131538520116],
+            [-52.935620584746964, 5.276123395833769],
+            [-52.93561245826085, 5.273501494797984]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_583500.laz/285500_583500.laz",
+        "filename": "285500_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93561946385042, 5.275761832268119],
+            [-52.93300388503499, 5.27576997439342],
+            [-52.93301200408311, 5.278391879296693],
+            [-52.93562759386785, 5.278383733102927],
+            [-52.93561946385042, 5.275761832268119]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_583750.laz/285500_583750.laz",
+        "filename": "285500_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93562647248433, 5.278022169564997],
+            [-52.93301088421261, 5.278030315197715],
+            [-52.93301900678734, 5.280652219899952],
+            [-52.93563460603313, 5.28064407019874],
+            [-52.93562647248433, 5.278022169564997]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_584000.laz/285500_584000.laz",
+        "filename": "285500_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93563348416263, 5.280282506688543],
+            [-52.933017886430505, 5.280290655828704],
+            [-52.93302601253191, 5.2829125603298195],
+            [-52.93564162124287, 5.282904407121137],
+            [-52.93563348416263, 5.280282506688543]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285500_584250.laz/285500_584250.laz",
+        "filename": "285500_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285500_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93564049888537, 5.282542843638685],
+            [-52.93302489168874, 5.282550996286312],
+            [-52.93302867018564, 5.283769771789081],
+            [-52.935644282487246, 5.283761617250219],
+            [-52.93564049888537, 5.282542843638685]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_581000.laz/285750_581000.laz",
+        "filename": "285750_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9332979996568, 5.254222827544744],
+            [-52.93068250724822, 5.254230926799546],
+            [-52.93068732579886, 5.255795447540062],
+            [-52.93330282472521, 5.255787345860553],
+            [-52.9332979996568, 5.254222827544744]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_581250.laz/285750_581250.laz",
+        "filename": "285750_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.933301709509784, 5.255425781562252],
+            [-52.930686212089874, 5.255433882681403],
+            [-52.93069428998158, 5.258055792892952],
+            [-52.93330979832798, 5.258047687710323],
+            [-52.933301709509784, 5.255425781562252]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_581500.laz/285750_581500.laz",
+        "filename": "285750_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93330868262622, 5.257686123439632],
+            [-52.93069317578692, 5.257694228061901],
+            [-52.93070125720057, 5.260316138073206],
+            [-52.93331677497113, 5.260308029387431],
+            [-52.93330868262622, 5.257686123439632]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_581750.laz/285750_581750.laz",
+        "filename": "285750_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.933315658783016, 5.259946465144364],
+            [-52.93070014252022, 5.2599545732697734],
+            [-52.93070822745587, 5.262576483080749],
+            [-52.9333237546547, 5.262568370891805],
+            [-52.933315658783016, 5.259946465144364]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_582000.laz/285750_582000.laz",
+        "filename": "285750_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93332263798024, 5.262206806676375],
+            [-52.93070711228983, 5.26221491830495],
+            [-52.93071520074755, 5.26483682791551],
+            [-52.933330737378746, 5.264828712223374],
+            [-52.93332263798024, 5.262206806676375]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_582250.laz/285750_582250.laz",
+        "filename": "285750_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.933329620217926, 5.264467148035589],
+            [-52.93071408509581, 5.264475263167354],
+            [-52.930722177075644, 5.267097172577414],
+            [-52.933337723143325, 5.26708905338206],
+            [-52.933329620217926, 5.264467148035589]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_582500.laz/285750_582500.laz",
+        "filename": "285750_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93333660549614, 5.2667274892219345],
+            [-52.9307210609382, 5.266735607856915],
+            [-52.930729156440236, 5.269357517066389],
+            [-52.93334471194849, 5.269349394367793],
+            [-52.93333660549614, 5.2667274892219345]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_582750.laz/285750_582750.laz",
+        "filename": "285750_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93334359381494, 5.2689878302353375],
+            [-52.93072803981706, 5.268995952373554],
+            [-52.930736138841354, 5.27161786138236],
+            [-52.93335170379431, 5.2716097351804985],
+            [-52.93334359381494, 5.2689878302353375]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_583000.laz/285750_583000.laz",
+        "filename": "285750_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93335058517436, 5.271248171075725],
+            [-52.93073502173245, 5.271256296717204],
+            [-52.930743124279054, 5.273878205525254],
+            [-52.93335869868081, 5.273870075820101],
+            [-52.93335058517436, 5.271248171075725]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_583250.laz/285750_583250.laz",
+        "filename": "285750_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93335757957447, 5.273508511743024],
+            [-52.930742006684426, 5.27351664088779],
+            [-52.93075011275341, 5.276138549494999],
+            [-52.93336569660808, 5.27613041628653],
+            [-52.93335757957447, 5.273508511743024]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_583500.laz/285750_583500.laz",
+        "filename": "285750_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93336457701533, 5.275768852237159],
+            [-52.93074899467303, 5.275776984885236],
+            [-52.93075710426446, 5.278398893291519],
+            [-52.93337269757614, 5.278390756579713],
+            [-52.93336457701533, 5.275768852237159]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_583750.laz/285750_583750.laz",
+        "filename": "285750_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.933371577496985, 5.2780291925580585],
+            [-52.930755985698326, 5.27803732870947],
+            [-52.93076409881226, 5.280659236914742],
+            [-52.93337970158506, 5.280651096699572],
+            [-52.933371577496985, 5.2780291925580585]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_584000.laz/285750_584000.laz",
+        "filename": "285750_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93337858101949, 5.280289532705647],
+            [-52.93076297976036, 5.280297672360417],
+            [-52.93077109639687, 5.2829195803645925],
+            [-52.9333867086349, 5.282911436646036],
+            [-52.93337858101949, 5.280289532705647]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/285750_584250.laz/285750_584250.laz",
+        "filename": "285750_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/285750_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9333855875829, 5.282549872679852],
+            [-52.930769976859196, 5.282558015838007],
+            [-52.930773717913915, 5.283766124148793],
+            [-52.93338933369792, 5.283757979118141],
+            [-52.9333855875829, 5.282549872679852]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_581000.laz/286000_581000.laz",
+        "filename": "286000_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93104327893098, 5.254259556693686],
+            [-52.92842778287633, 5.254267646556161],
+            [-52.9284325043135, 5.255802423197154],
+            [-52.93104800676207, 5.255794330958844],
+            [-52.93104327893098, 5.254259556693686]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_581250.laz/286000_581250.laz",
+        "filename": "286000_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93104689284534, 5.255432766177414],
+            [-52.92843139190323, 5.255440857856019],
+            [-52.92843946037515, 5.258062771566279],
+            [-52.931054972243835, 5.258054675828931],
+            [-52.93104689284534, 5.255432766177414]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_581500.laz/286000_581500.laz",
+        "filename": "286000_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.931053857841334, 5.25769311107511],
+            [-52.92843834747977, 5.257701206252749],
+            [-52.92844641946952, 5.260323119762788],
+            [-52.931061940762426, 5.260315020526377],
+            [-52.931053857841334, 5.25769311107511]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_581750.laz/286000_581750.laz",
+        "filename": "286000_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.931060825874155, 5.259953455800176],
+            [-52.928445306089024, 5.259961554476876],
+            [-52.928453381596675, 5.262583467786609],
+            [-52.931068912317905, 5.262575365051111],
+            [-52.931060825874155, 5.259953455800176]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_582000.laz/286000_582000.laz",
+        "filename": "286000_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93106779694385, 5.262213800352542],
+            [-52.92845226773105, 5.262221902528323],
+            [-52.92846034675665, 5.264843815637668],
+            [-52.93107588691032, 5.26483570940306],
+            [-52.93106779694385, 5.262213800352542]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_582250.laz/286000_582250.laz",
+        "filename": "286000_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.931074771050476, 5.264474144732134],
+            [-52.9284592324059, 5.264482250407022],
+            [-52.92846731494953, 5.267104163315891],
+            [-52.931082864539725, 5.267096053582146],
+            [-52.931074771050476, 5.264474144732134]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_582500.laz/286000_582500.laz",
+        "filename": "286000_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93108174819409, 5.266734488938877],
+            [-52.928466200113625, 5.266742598112899],
+            [-52.92847428617534, 5.269364510821204],
+            [-52.93108984520619, 5.269356397588301],
+            [-52.93108174819409, 5.266734488938877]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_582750.laz/286000_582750.laz",
+        "filename": "286000_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93108872837473, 5.268994832972699],
+            [-52.928473170854275, 5.269002945645876],
+            [-52.92848126043414, 5.271624858153537],
+            [-52.931096828909745, 5.2716167414214485],
+            [-52.93108872837473, 5.268994832972699]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_583000.laz/286000_583000.laz",
+        "filename": "286000_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93109571159247, 5.271255176833526],
+            [-52.928480144627926, 5.271263293005882],
+            [-52.928488237725986, 5.273885205312811],
+            [-52.93110381565046, 5.273877085081517],
+            [-52.93109571159247, 5.271255176833526]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_583250.laz/286000_583250.laz",
+        "filename": "286000_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93110269784736, 5.273515520521284],
+            [-52.9284871214346, 5.273523640192844],
+            [-52.92849521805094, 5.276145552298957],
+            [-52.93111080542838, 5.27613742856843],
+            [-52.93110269784736, 5.273515520521284]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_583500.laz/286000_583500.laz",
+        "filename": "286000_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93110968713944, 5.275775864035901],
+            [-52.92849410127438, 5.275783987206689],
+            [-52.92850220140905, 5.278405899111901],
+            [-52.93111779824357, 5.2783977718821165],
+            [-52.93110968713944, 5.275775864035901]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_583750.laz/286000_583750.laz",
+        "filename": "286000_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.931116679468786, 5.278036207377302],
+            [-52.9285010841473, 5.278044334047343],
+            [-52.92850918780037, 5.280666245751567],
+            [-52.93112479409608, 5.2806581150225025],
+            [-52.931116679468786, 5.278036207377302]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_584000.laz/286000_584000.laz",
+        "filename": "286000_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93112367483544, 5.280296550545413],
+            [-52.928508070053425, 5.280304680714731],
+            [-52.92851617722496, 5.282926592217883],
+            [-52.93113179298595, 5.282918457989514],
+            [-52.93112367483544, 5.280296550545413]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286000_584250.laz/286000_584250.laz",
+        "filename": "286000_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286000_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.93113067323946, 5.282556893540162],
+            [-52.9285150589928, 5.282565027208781],
+            [-52.92851876268244, 5.283762468297207],
+            [-52.93113438194474, 5.283754332774789],
+            [-52.93113067323946, 5.282556893540162]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_581000.laz/286250_581000.laz",
+        "filename": "286250_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.928788554955304, 5.254296277785195],
+            [-52.92617305525869, 5.254304358255173],
+            [-52.92617767979547, 5.2558093907149415],
+            [-52.92879318576214, 5.255801307917894],
+            [-52.928788554955304, 5.254296277785195]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_581250.laz/286250_581250.laz",
+        "filename": "286250_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92879207314413, 5.255439742653899],
+            [-52.92617656868393, 5.255447824891894],
+            [-52.926184627736, 5.258069742096782],
+            [-52.92880014312284, 5.258061655804779],
+            [-52.92879207314413, 5.255439742653899]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_581500.laz/286250_581500.laz",
+        "filename": "286250_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92879903001963, 5.257700090568389],
+            [-52.92618351613991, 5.257708176301337],
+            [-52.926191578705705, 5.260330093306028],
+            [-52.92880710351683, 5.260322003519044],
+            [-52.92879903001963, 5.257700090568389]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_581750.laz/286250_581750.laz",
+        "filename": "286250_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.928805989928414, 5.259960438310272],
+            [-52.926190466625066, 5.259968527538197],
+            [-52.926198532704646, 5.262590444342606],
+            [-52.92881406694417, 5.262582351060619],
+            [-52.928805989928414, 5.259960438310272]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_582000.laz/286250_582000.laz",
+        "filename": "286250_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92881295287053, 5.262220785879474],
+            [-52.92619742013945, 5.262228878602399],
+            [-52.92620548973288, 5.264850795206444],
+            [-52.9288210334049, 5.264842698429427],
+            [-52.92881295287053, 5.262220785879474]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_582250.laz/286250_582250.laz",
+        "filename": "286250_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92881991884604, 5.264481133275923],
+            [-52.92620437668312, 5.264489229493873],
+            [-52.92621244979047, 5.267111145897466],
+            [-52.92882800289909, 5.267103045625396],
+            [-52.92881991884604, 5.264481133275923]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_582500.laz/286250_582500.laz",
+        "filename": "286250_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92882688785499, 5.266741480499544],
+            [-52.926211336256124, 5.266749580212544],
+            [-52.926219412877444, 5.2693714964156],
+            [-52.928834975426774, 5.269363392648452],
+            [-52.92882688785499, 5.266741480499544]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_582750.laz/286250_582750.laz",
+        "filename": "286250_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92883385989744, 5.269001827550266],
+            [-52.926218298858515, 5.269009930758337],
+            [-52.926226378993874, 5.271631846760772],
+            [-52.92884195098802, 5.271623739498524],
+            [-52.92883385989744, 5.269001827550266]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_583000.laz/286250_583000.laz",
+        "filename": "286250_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.928840834973435, 5.271262174428012],
+            [-52.926225264490355, 5.271270281131182],
+            [-52.92623334813982, 5.273892196932908],
+            [-52.92884892958289, 5.273884086175536],
+            [-52.928840834973435, 5.271262174428012]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_583250.laz/286250_583250.laz",
+        "filename": "286250_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92884781308304, 5.273522521132711],
+            [-52.92623223315169, 5.273530631331003],
+            [-52.926240320315316, 5.276152546931936],
+            [-52.92885591121143, 5.276144432679414],
+            [-52.92884781308304, 5.273522521132711]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_583500.laz/286250_583500.laz",
+        "filename": "286250_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.928854794226304, 5.27578286766429],
+            [-52.92623920484258, 5.2757909813577255],
+            [-52.92624729552043, 5.278412896757785],
+            [-52.928862895873685, 5.278404779010087],
+            [-52.928854794226304, 5.27578286766429]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_583750.laz/286250_583750.laz",
+        "filename": "286250_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92886177840328, 5.278043214022672],
+            [-52.92624617956307, 5.27805133121128],
+            [-52.92625427375522, 5.280673246410374],
+            [-52.928869883569725, 5.280665125167479],
+            [-52.92886177840328, 5.278043214022672]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_584000.laz/286250_584000.laz",
+        "filename": "286250_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.928868765614034, 5.280303560207787],
+            [-52.92625315731323, 5.2803116808915895],
+            [-52.92626125501973, 5.282933595889635],
+            [-52.92887687429958, 5.282925471151518],
+            [-52.928868765614034, 5.280303560207787]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286250_584250.laz/286250_584250.laz",
+        "filename": "286250_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286250_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.928875755858606, 5.28256390621956],
+            [-52.926260138093106, 5.282572030398582],
+            [-52.92626380449474, 5.283758804234321],
+            [-52.92887942723123, 5.28375067822016],
+            [-52.928875755858606, 5.28256390621956]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_581000.laz/286500_581000.laz",
+        "filename": "286500_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92653382773332, 5.254332990819076],
+            [-52.923918324398834, 5.254341061896388],
+            [-52.92392285224832, 5.25581635009337],
+            [-52.92653836172899, 5.255808276737648],
+            [-52.92653382773332, 5.254332990819076]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_581250.laz/286500_581250.laz",
+        "filename": "286500_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9265372504097, 5.255446710991651],
+            [-52.92392174243551, 5.2554547837889745],
+            [-52.92392979206766, 5.258076704484408],
+            [-52.92654531096857, 5.258068627637813],
+            [-52.9265372504097, 5.255446710991651]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_581500.laz/286500_581500.laz",
+        "filename": "286500_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92654419916465, 5.257707061919416],
+            [-52.92392868177088, 5.25771513820761],
+            [-52.92393673491265, 5.260337058702872],
+            [-52.9265522632379, 5.2603289783653775],
+            [-52.92654419916465, 5.257707061919416]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_581750.laz/286500_581750.laz",
+        "filename": "286500_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92655115094934, 5.259967412674595],
+            [-52.92393562413188, 5.259975492453683],
+            [-52.92394368078333, 5.262597412748688],
+            [-52.92655921853704, 5.262589328920271],
+            [-52.92655115094934, 5.259967412674595]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_582000.laz/286500_582000.laz",
+        "filename": "286500_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.926558105763824, 5.262227763257115],
+            [-52.923942569518566, 5.262235846527122],
+            [-52.923950629679766, 5.264857766621783],
+            [-52.926566176866025, 5.264849679302421],
+            [-52.926558105763824, 5.262227763257115]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_582250.laz/286500_582250.laz",
+        "filename": "286500_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92656506360816, 5.264488113666902],
+            [-52.923949517931, 5.264496200427851],
+            [-52.923957581602, 5.267118120322086],
+            [-52.92657313822494, 5.267110029511752],
+            [-52.92656506360816, 5.264488113666902]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_582500.laz/286500_582500.laz",
+        "filename": "286500_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9265720244824, 5.266748463903881],
+            [-52.92395646936923, 5.266756554155797],
+            [-52.9239645365501, 5.26937847384952],
+            [-52.926580102613805, 5.269370379548191],
+            [-52.9265720244824, 5.266748463903881]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_582750.laz/286500_582750.laz",
+        "filename": "286500_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92657898838659, 5.2690088139679805],
+            [-52.9239634238333, 5.269016907710888],
+            [-52.92397149452411, 5.271638827204013],
+            [-52.926587070032696, 5.271630729411667],
+            [-52.92657898838659, 5.2690088139679805]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_583000.laz/286500_583000.laz",
+        "filename": "286500_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92658595532079, 5.271269163859129],
+            [-52.92397038132328, 5.271277261093052],
+            [-52.92397845552408, 5.273899180385493],
+            [-52.92659404048165, 5.2738910791021025],
+            [-52.92658595532079, 5.271269163859129]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_583250.laz/286500_583250.laz",
+        "filename": "286500_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92659292528506, 5.273529513577249],
+            [-52.92397734183922, 5.273537614302211],
+            [-52.92398541955008, 5.276159533393883],
+            [-52.92660101396075, 5.276151428619427],
+            [-52.92659292528506, 5.273529513577249]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_583500.laz/286500_583500.laz",
+        "filename": "286500_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92659989827945, 5.27578986312227],
+            [-52.92398430538117, 5.275797967338295],
+            [-52.923992386602144, 5.2784198862291145],
+            [-52.92660799047002, 5.278411777963566],
+            [-52.92659989827945, 5.27578986312227]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_583750.laz/286500_583750.laz",
+        "filename": "286500_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.926606874304014, 5.278050212494116],
+            [-52.923991271949184, 5.278058320201229],
+            [-52.92399935668035, 5.28068023889111],
+            [-52.92661497000953, 5.280672127134445],
+            [-52.926606874304014, 5.278050212494116]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_584000.laz/286500_584000.laz",
+        "filename": "286500_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9266138533588, 5.280310561692715],
+            [-52.923998241543316, 5.280318672890939],
+            [-52.92400632978473, 5.282940591379797],
+            [-52.92662195257933, 5.282932476131992],
+            [-52.9266138533588, 5.280310561692715]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286500_584250.laz/286500_584250.laz",
+        "filename": "286500_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286500_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92662083544387, 5.282570910717993],
+            [-52.92400521416363, 5.282579025407353],
+            [-52.92400884335438, 5.283755131960126],
+            [-52.92662446956095, 5.283747015454249],
+            [-52.92662083544387, 5.282570910717993]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_581000.laz/286750_581000.laz",
+        "filename": "286750_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92427909699105, 5.254369605380975],
+            [-52.921663590023186, 5.25437766706531],
+            [-52.92166802167557, 5.255823301332388],
+            [-52.92428353466613, 5.255815237418054],
+            [-52.92427909699105, 5.254369605380975]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_581250.laz/286750_581250.laz",
+        "filename": "286750_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.924282424645575, 5.255453671190616],
+            [-52.92166691316151, 5.2554617345472066],
+            [-52.921674953373675, 5.258083658729103],
+            [-52.92429047578454, 5.258075591327975],
+            [-52.924282424645575, 5.255453671190616]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_581500.laz/286750_581500.laz",
+        "filename": "286750_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92428936527992, 5.257714025128138],
+            [-52.92167384437621, 5.257722091971516],
+            [-52.92168188809389, 5.260344015953264],
+            [-52.92429741992916, 5.2603359450653215],
+            [-52.92428936527992, 5.257714025128138]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_581750.laz/286750_581750.laz",
+        "filename": "286750_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92429630894047, 5.2599743788930935],
+            [-52.921680778613, 5.259982449223283],
+            [-52.92168882583626, 5.262604373004799],
+            [-52.92430436710005, 5.262596298630017],
+            [-52.92429630894047, 5.2599743788930935]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_582000.laz/286750_582000.laz",
+        "filename": "286750_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.924303255627265, 5.26223473248541],
+            [-52.92168771587194, 5.262242806302437],
+            [-52.92169576660084, 5.2648647298836355],
+            [-52.924311317297246, 5.2648566520219875],
+            [-52.924303255627265, 5.26223473248541]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_582250.laz/286750_582250.laz",
+        "filename": "286750_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.924310205340376, 5.264495085905016],
+            [-52.921694656153086, 5.264503163208902],
+            [-52.92170271038768, 5.267125086589697],
+            [-52.924318270520814, 5.267117005241162],
+            [-52.924310205340376, 5.264495085905016]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_582500.laz/286750_582500.laz",
+        "filename": "286750_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92431715807984, 5.266755439151836],
+            [-52.92170159945648, 5.266763519942606],
+            [-52.92170965719684, 5.269385443122912],
+            [-52.92432522677081, 5.269377358287465],
+            [-52.92431715807984, 5.266755439151836]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_582750.laz/286750_582750.laz",
+        "filename": "286750_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92432411384572, 5.269015792225796],
+            [-52.92170854578219, 5.269023876503475],
+            [-52.92171660702837, 5.271645799483207],
+            [-52.92433218604729, 5.271637711160824],
+            [-52.92432411384572, 5.269015792225796]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_583000.laz/286750_583000.laz",
+        "filename": "286750_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92433107263808, 5.271276145126824],
+            [-52.92171549513026, 5.271284232891436],
+            [-52.921723559882324, 5.273906155670509],
+            [-52.92433914835029, 5.273898063861164],
+            [-52.92433107263808, 5.271276145126824]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_583250.laz/286750_583250.laz",
+        "filename": "286750_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92433803445696, 5.273536497854846],
+            [-52.92172244750074, 5.273544589106414],
+            [-52.92173051575876, 5.276166511684743],
+            [-52.92434611367989, 5.276158416388415],
+            [-52.92433803445696, 5.273536497854846]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_583500.laz/286750_583500.laz",
+        "filename": "286750_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92434499930242, 5.275796850409789],
+            [-52.921729402893696, 5.275804945148338],
+            [-52.92173747465773, 5.278426867525839],
+            [-52.92435308203613, 5.278418768742502],
+            [-52.92434499930242, 5.275796850409789]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_583750.laz/286750_583750.laz",
+        "filename": "286750_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92435196717451, 5.2780572027915795],
+            [-52.92173636130918, 5.278065301017133],
+            [-52.92174443657929, 5.280687223193718],
+            [-52.92436005341906, 5.280679120923349],
+            [-52.92435196717451, 5.2780572027915795]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_584000.laz/286750_584000.laz",
+        "filename": "286750_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92435893807328, 5.280317555000142],
+            [-52.92174332274724, 5.280325656712725],
+            [-52.92175140152348, 5.2829475786883116],
+            [-52.92436702782874, 5.282939472930883],
+            [-52.92435893807328, 5.280317555000142]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/286750_584250.laz/286750_584250.laz",
+        "filename": "286750_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/286750_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9243659119988, 5.282577907035406],
+            [-52.921750287207935, 5.282586012235042],
+            [-52.92175387954359, 5.283751541888837],
+            [-52.924369509216504, 5.283743434891128],
+            [-52.9243659119988, 5.282577907035406]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_581000.laz/287000_581000.laz",
+        "filename": "287000_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92202436301018, 5.254406211884621],
+            [-52.91940885241305, 5.25441426417581],
+            [-52.919413188080775, 5.25583024443194],
+            [-52.92202870457712, 5.255822189959055],
+            [-52.92202436301018, 5.254406211884621]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_581250.laz/287000_581250.laz",
+        "filename": "287000_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.922027595855305, 5.255460623250741],
+            [-52.91941208086547, 5.255468677166536],
+            [-52.9194201116576, 5.258090604830814],
+            [-52.922035637574304, 5.258082546875217],
+            [-52.922027595855305, 5.255460623250741]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_581500.laz/287000_581500.laz",
+        "filename": "287000_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.922034528369, 5.2577209801945],
+            [-52.91941900395944, 5.257729037592999],
+            [-52.919427038252984, 5.260350965057153],
+            [-52.92204257359416, 5.260342903618825],
+            [-52.922034528369, 5.2577209801945]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_581750.laz/287000_581750.laz",
+        "filename": "287000_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92204146390534, 5.259981336965714],
+            [-52.91942593007198, 5.259989397846943],
+            [-52.91943396786698, 5.262611325110888],
+            [-52.92204951263674, 5.262603260189801],
+            [-52.92204146390534, 5.259981336965714]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_582000.laz/287000_582000.laz",
+        "filename": "287000_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9220484024644, 5.262241693564309],
+            [-52.91943285920312, 5.262249757928291],
+            [-52.91944090049965, 5.264871684991944],
+            [-52.922056454702094, 5.264863616588075],
+            [-52.9220484024644, 5.262241693564309]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_582250.laz/287000_582250.laz",
+        "filename": "287000_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92205534404623, 5.264502049990214],
+            [-52.91943979135292, 5.2645101178369735],
+            [-52.91944783615104, 5.267132044700245],
+            [-52.922063399790275, 5.267123972813572],
+            [-52.92205534404623, 5.264502049990214]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_582500.laz/287000_582500.laz",
+        "filename": "287000_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92206228865087, 5.266762406243354],
+            [-52.91944672652143, 5.2667704775729165],
+            [-52.91945477482121, 5.269392404235721],
+            [-52.92207034790135, 5.26938432886622],
+            [-52.92206228865087, 5.266762406243354]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_582750.laz/287000_582750.laz",
+        "filename": "287000_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.922069236278396, 5.2690227623236545],
+            [-52.919453664708705, 5.269030837136041],
+            [-52.919461716510206, 5.271652763598301],
+            [-52.92207729903535, 5.271644684745943],
+            [-52.922069236278396, 5.2690227623236545]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_583000.laz/287000_583000.laz",
+        "filename": "287000_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92207618692885, 5.271283118231044],
+            [-52.919460605914814, 5.271291196526281],
+            [-52.9194686612181, 5.273913122787905],
+            [-52.922084253192345, 5.273905040452669],
+            [-52.92207618692885, 5.271283118231044]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_583250.laz/287000_583250.laz",
+        "filename": "287000_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92208314060229, 5.273543473965447],
+            [-52.919467550139785, 5.273551555743558],
+            [-52.919475608944914, 5.276173481804462],
+            [-52.922091210372386, 5.276165395986325],
+            [-52.92208314060229, 5.273543473965447]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_583500.laz/287000_583500.laz",
+        "filename": "287000_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92209009729876, 5.275803829526794],
+            [-52.9194744973837, 5.275811914787804],
+            [-52.91948255969073, 5.278433840647902],
+            [-52.92209817057553, 5.278425751346839],
+            [-52.92209009729876, 5.275803829526794]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_583750.laz/287000_583750.laz",
+        "filename": "287000_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92209705701832, 5.278064184915007],
+            [-52.91948144764659, 5.27807227365894],
+            [-52.91948951345559, 5.280694199318146],
+            [-52.92210513380183, 5.280686106534134],
+            [-52.92209705701832, 5.278064184915007]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_584000.laz/287000_584000.laz",
+        "filename": "287000_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.92210401976103, 5.2803245401300165],
+            [-52.919488400928515, 5.280332632356894],
+            [-52.919496470239544, 5.282954557815127],
+            [-52.92211210005133, 5.282946461548139],
+            [-52.92210401976103, 5.2803245401300165]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287000_584250.laz/287000_584250.laz",
+        "filename": "287000_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287000_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.922110985526935, 5.282584895171744],
+            [-52.91949535722954, 5.282592990881594],
+            [-52.91949891250818, 5.283747853192139],
+            [-52.92211454564297, 5.2837397557027606],
+            [-52.922110985526935, 5.282584895171744]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_581000.laz/287250_581000.laz",
+        "filename": "287250_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91976962607113, 5.254442900744227],
+            [-52.91715411184843, 5.25445094364224],
+            [-52.91715835146748, 5.255837179391974],
+            [-52.919773871465495, 5.255829134360599],
+            [-52.91976962607113, 5.254442900744227]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_581250.laz/287250_581250.laz",
+        "filename": "287250_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.919772764042435, 5.255467567171974],
+            [-52.91715724555093, 5.255475611646908],
+            [-52.91716526692296, 5.258097542789485],
+            [-52.9197807963414, 5.258089494279483],
+            [-52.919772764042435, 5.255467567171974]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_581500.laz/287250_581500.laz",
+        "filename": "287250_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.919779688435405, 5.257727927118449],
+            [-52.91716416052413, 5.257735975072008],
+            [-52.91717218539346, 5.260357906014485],
+            [-52.919787724236436, 5.260349854025831],
+            [-52.919779688435405, 5.257727927118449]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_581750.laz/287250_581750.laz",
+        "filename": "287250_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9197866158475, 5.2599882868924],
+            [-52.91717107851235, 5.259996338324606],
+            [-52.91717910687903, 5.262618269066898],
+            [-52.91979465515065, 5.2626102135995705],
+            [-52.9197866158475, 5.2599882868924]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_582000.laz/287250_582000.laz",
+        "filename": "287250_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91979354627876, 5.262248646493755],
+            [-52.91717799951563, 5.262256701404632],
+            [-52.91718603137974, 5.264878631946655],
+            [-52.91980158908411, 5.264870573000627],
+            [-52.91979354627876, 5.262248646493755]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_582250.laz/287250_582250.laz",
+        "filename": "287250_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91980047972926, 5.264509005922439],
+            [-52.91718492353403, 5.264517064312012],
+            [-52.917192958895626, 5.267138994653679],
+            [-52.91980852603685, 5.267130932228929],
+            [-52.91980047972926, 5.264509005922439]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_582500.laz/287250_582500.laz",
+        "filename": "287250_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91980741619903, 5.266769365178378],
+            [-52.917191850567605, 5.266777427046671],
+            [-52.917199889426755, 5.269399357187896],
+            [-52.919815466008934, 5.269391291284399],
+            [-52.91980741619903, 5.266769365178378]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_582750.laz/287250_582750.laz",
+        "filename": "287250_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91981435568814, 5.269029724261501],
+            [-52.91719878061641, 5.269037789608536],
+            [-52.917206822973164, 5.271659719549237],
+            [-52.91982240900041, 5.271651650166969],
+            [-52.91981435568814, 5.269029724261501]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_583000.laz/287250_583000.laz",
+        "filename": "287250_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91982129819663, 5.271290083171733],
+            [-52.917205713680495, 5.271298151997535],
+            [-52.91721375953492, 5.273920081737625],
+            [-52.919829355011345, 5.273912008876562],
+            [-52.91982129819663, 5.271290083171733]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_583250.laz/287250_583250.laz",
+        "filename": "287250_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.919828243724574, 5.273550441908999],
+            [-52.91721264975991, 5.273558514213594],
+            [-52.91722069911207, 5.276180443752987],
+            [-52.91983630404178, 5.276172367413103],
+            [-52.919828243724574, 5.273550441908999]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_583500.laz/287250_583500.laz",
+        "filename": "287250_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.919835192272004, 5.275810800473229],
+            [-52.91721958885472, 5.275818876256638],
+            [-52.91722764170468, 5.278440805595252],
+            [-52.91984325609178, 5.278432725776526],
+            [-52.919835192272004, 5.275810800473229]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_583750.laz/287250_583750.laz",
+        "filename": "287250_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91984214383899, 5.278071158864347],
+            [-52.91722653096497, 5.278079238126597],
+            [-52.91723458731279, 5.2807011672643425],
+            [-52.91985021116139, 5.280693083966749],
+            [-52.91984214383899, 5.278071158864347]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_584000.laz/287250_584000.laz",
+        "filename": "287250_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91984909842558, 5.28033151708228],
+            [-52.917233476090715, 5.280339599823393],
+            [-52.917241535936455, 5.282961528760188],
+            [-52.91985716925066, 5.282953441983701],
+            [-52.91984909842558, 5.28033151708228]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287250_584250.laz/287250_584250.laz",
+        "filename": "287250_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287250_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91985605603182, 5.282591875126956],
+            [-52.917240424232006, 5.282599961346954],
+            [-52.91724394253073, 5.283744156284119],
+            [-52.91985957912327, 5.283736068303098],
+            [-52.91985605603182, 5.282591875126956]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_581000.laz/287500_581000.laz",
+        "filename": "287500_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9175148858999, 5.254479581545434],
+            [-52.91489936805576, 5.2544876150501025],
+            [-52.914903511839206, 5.255844106212435],
+            [-52.91751903533479, 5.2558360706226335],
+            [-52.9175148858999, 5.254479581545434]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_581250.laz/287500_581250.laz",
+        "filename": "287500_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9175179292105, 5.255474502954256],
+            [-52.914902407221426, 5.2554825379882715],
+            [-52.914910419173296, 5.258104472605064],
+            [-52.91752595208937, 5.258096433540719],
+            [-52.9175179292105, 5.255474502954256]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_581500.laz/287500_581500.laz",
+        "filename": "287500_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91752484548271, 5.257734865899931],
+            [-52.9149093140738, 5.257742904408487],
+            [-52.914917329518865, 5.260364838825203],
+            [-52.917532871859535, 5.260356796286289],
+            [-52.91752484548271, 5.257734865899931]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_581750.laz/287500_581750.laz",
+        "filename": "287500_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.917531764770494, 5.259995228673102],
+            [-52.91491622393765, 5.260003270656222],
+            [-52.91492424287596, 5.262625204872778],
+            [-52.91753979464534, 5.262617158859271],
+            [-52.917531764770494, 5.259995228673102]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_582000.laz/287500_582000.laz",
+        "filename": "287500_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91753868707391, 5.2622555912736955],
+            [-52.91492313681303, 5.262263636731404],
+            [-52.91493115924465, 5.264885570747715],
+            [-52.917546720446836, 5.264877521259591],
+            [-52.91753868707391, 5.2622555912736955]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_582250.laz/287500_582250.laz",
+        "filename": "287500_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.917545612393006, 5.26451595370164],
+            [-52.91493005269998, 5.264524002633962],
+            [-52.91493807862498, 5.26714593644994],
+            [-52.91755364926408, 5.267137883487178],
+            [-52.917545612393006, 5.26451595370164]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_582500.laz/287500_582500.laz",
+        "filename": "287500_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.917552540727854, 5.266776315956861],
+            [-52.91493697159856, 5.266784368363819],
+            [-52.914945001017, 5.269406301979381],
+            [-52.91756058109713, 5.269398245541954],
+            [-52.917552540727854, 5.266776315956861]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_582750.laz/287500_582750.laz",
+        "filename": "287500_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.917559472078494, 5.269036678039283],
+            [-52.91494389350883, 5.269044733920904],
+            [-52.91495192642078, 5.271666667335965],
+            [-52.91756751594603, 5.271658607423848],
+            [-52.917559472078494, 5.269036678039283]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_583000.laz/287500_583000.laz",
+        "filename": "287500_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.917566406444976, 5.271297039948839],
+            [-52.91495081843084, 5.271305099305143],
+            [-52.91495885483635, 5.273927032519616],
+            [-52.91757445381084, 5.273918969132786],
+            [-52.917566406444976, 5.271297039948839]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_583250.laz/287500_583250.laz",
+        "filename": "287500_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.917573343827364, 5.273557401685448],
+            [-52.91495774636464, 5.273565464516462],
+            [-52.914965786263785, 5.276187397530264],
+            [-52.917581394691624, 5.276179330668697],
+            [-52.917573343827364, 5.273557401685448]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_583500.laz/287500_583500.laz",
+        "filename": "287500_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91758028422571, 5.275817763249041],
+            [-52.91496467731029, 5.275825829554787],
+            [-52.914972720703126, 5.278447762367833],
+            [-52.917588338588416, 5.2784396920315055],
+            [-52.91758028422571, 5.275817763249041]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_583750.laz/287500_583750.laz",
+        "filename": "287500_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91758722764005, 5.278078124639543],
+            [-52.914971611267845, 5.278086194420047],
+            [-52.91497965815443, 5.28070812703225],
+            [-52.917595285501285, 5.280700053221136],
+            [-52.91758722764005, 5.278078124639543]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_584000.laz/287500_584000.laz",
+        "filename": "287500_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.917594174070466, 5.280338485856883],
+            [-52.91497854823736, 5.280346559112166],
+            [-52.91498659861776, 5.282968491523442],
+            [-52.91760223543028, 5.28296041423752],
+            [-52.917594174070466, 5.280338485856883]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287500_584250.laz/287500_584250.laz",
+        "filename": "287500_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287500_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.917601123516995, 5.282598846900982],
+            [-52.914985488218875, 5.282606923631072],
+            [-52.91498896933707, 5.283740360750206],
+            [-52.91760460938286, 5.2837322822776995],
+            [-52.917601123516995, 5.282598846900982]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_581000.laz/287750_581000.laz",
+        "filename": "287750_581000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_581000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91526014222382, 5.254516163873408],
+            [-52.91371801415962, 5.254520896266414],
+            [-52.913722064865055, 5.255847732339564],
+            [-52.915264196188566, 5.255842998745105],
+            [-52.91526014222382, 5.254516163873408]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_581250.laz/287750_581250.laz",
+        "filename": "287750_581250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_581250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91526309136303, 5.25548143059754],
+            [-52.913699675224706, 5.255486229170225],
+            [-52.91370768215183, 5.258108165638497],
+            [-52.91527110482175, 5.258103364658871],
+            [-52.91526309136303, 5.25548143059754]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_581500.laz/287750_581500.laz",
+        "filename": "287750_581500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_581500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91526999951442, 5.257741796538893],
+            [-52.91368538215939, 5.257746662242902],
+            [-52.91369339248893, 5.260368598543727],
+            [-52.915278016466985, 5.260363730400144],
+            [-52.91526999951442, 5.257741796538893]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_581750.laz/287750_581750.laz",
+        "filename": "287750_581750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_581750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.915276910677846, 5.260002162307763],
+            [-52.91367118214496, 5.260007094921679],
+            [-52.91367919587727, 5.262629031054836],
+            [-52.915284931124326, 5.2626240959688495],
+            [-52.915276910677846, 5.260002162307763]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_582000.laz/287750_582000.laz",
+        "filename": "287750_582000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_582000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91528382485336, 5.262262527904076],
+            [-52.91365680459844, 5.262267528037336],
+            [-52.91366482173276, 5.264889464003017],
+            [-52.91529184879381, 5.264884461364913],
+            [-52.91528382485336, 5.262262527904076]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_582250.laz/287750_582250.laz",
+        "filename": "287750_582250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_582250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91529074204102, 5.2645228933277615],
+            [-52.913642610297686, 5.2645279604817645],
+            [-52.913650630834745, 5.267149896279605],
+            [-52.91529876947551, 5.267144826588264],
+            [-52.91529074204102, 5.2645228933277615]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_582500.laz/287750_582500.laz",
+        "filename": "287750_582500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_582500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91529766224089, 5.2667832585787435],
+            [-52.91362841885402, 5.266788392808788],
+            [-52.91363644279381, 5.269410328438707],
+            [-52.915305693169465, 5.269405191638826],
+            [-52.91529766224089, 5.2667832585787435]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_582750.laz/287750_582750.laz",
+        "filename": "287750_582750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_582750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.915304585453, 5.269043623656949],
+            [-52.91361423026739, 5.269048825018338],
+            [-52.9136222576099, 5.271670760480245],
+            [-52.91531261987574, 5.271665556516526],
+            [-52.915304585453, 5.269043623656949]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_583000.laz/287750_583000.laz",
+        "filename": "287750_583000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_583000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.915311511677416, 5.271303988562305],
+            [-52.913599773949954, 5.271309257942937],
+            [-52.913607804694024, 5.273931193237167],
+            [-52.915319549594386, 5.2739259212212914],
+            [-52.915311511677416, 5.271303988562305]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_583250.laz/287750_583250.laz",
+        "filename": "287750_583250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_583250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.9153184409142, 5.273564353294739],
+            [-52.913585410683766, 5.273569690472961],
+            [-52.913593444829765, 5.27619162559929],
+            [-52.91532648232545, 5.276186285753049],
+            [-52.9153184409142, 5.273564353294739]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_583500.laz/287750_583500.laz",
+        "filename": "287750_583500.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_583500.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91532537316339, 5.275824717854177],
+            [-52.91357114046978, 5.275830122607988],
+            [-52.91357917801807, 5.278452057566192],
+            [-52.91533341806899, 5.278446650111727],
+            [-52.91532537316339, 5.275824717854177]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_583750.laz/287750_583750.laz",
+        "filename": "287750_583750.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_583750.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91533230842505, 5.278085082240545],
+            [-52.913556873112, 5.278090554625477],
+            [-52.91356491406257, 5.2807124894154684],
+            [-52.91534035682506, 5.2807070142972465],
+            [-52.91533230842505, 5.278085082240545]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_584000.laz/287750_584000.laz",
+        "filename": "287750_584000.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_584000.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.91533924669923, 5.280345446453769],
+            [-52.91354260861038, 5.280350986525353],
+            [-52.91355065296322, 5.28297292114705],
+            [-52.915347298593716, 5.282967378309539],
+            [-52.91533924669923, 5.280345446453769]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "fguiana_paracou/287750_584250.laz/287750_584250.laz",
+        "filename": "287750_584250.laz",
+        "url": "https://dap.ceda.ac.uk/neodc/forestscan/data/french_guiana/paracou/ALS-Paracou-2019/paracou/287750_584250.laz?download=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-52.915346187985996, 5.282605810493775],
+            [-52.91354259818225, 5.28261137436501],
+            [-52.91354604421266, 5.283734233930212],
+            [-52.91534963725959, 5.2837286688698715],
+            [-52.915346187985996, 5.282605810493775]
+          ]
+        ]
+      }
+    }
+  ]
+}

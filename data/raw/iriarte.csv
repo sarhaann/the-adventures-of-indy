@@ -1,0 +1,52 @@
+ID,Site Name,x (UTM 19S),y (UTM 19S),Classification,LIDAR,Number of mounds,Mound shape,Entrance shape,Paired,Main avenue directions
+1,Aparecida do Norte I,705710,8924021,Irregular,No,,,,No,
+2,Caboquim,700331,8915044,Circular,Yes,26,Elongated and square,L,Superimposed,North/South
+3,Coqueiral,680928,8905338,Irregular,No,10,Elongated,,No,North/South
+4,Dois círculos IV,647270,8871232,Rectangular,Yes,16,Elongated and square,,Twins,
+5,Dois círculos V,647803,8871561,Irregular,Yes,32,Elongated and square,,Twin/Superimposed,
+6,Dona Maria IV,698270,8920257,Circular,Yes,12,,,Twins,
+7,Dona Maria V,697792,8919995,Circular,Yes,16,Elongated and square,,Twins,
+8,Estrela do Norte I,653169,8877129,Circular,Yes,12,,,Twins,
+9,Estrela do Norte II,653379,8878115,Irregular,Yes,12,,,Twins,
+10,Fazenda Boa Esperança,700753,8911712,Circular,Yes,14,,,No,North/South
+11,Fazenda Iquiri II,674027,8886364,Circular,No,19,Elongated,,No,East/West
+12,Fazenda Tocantins,699646,8905612,Circular,Yes,18,,L,No,East/West
+13,Fonte Boa II,684072,8886375,Circular,No,,,,No,
+14,Gavião VI,649260,8836229,Rectangular,No,5,Elongated,,Twins,Sudeste
+15,Gavião VII,649417,8836048,Rectangular,No,7,Elongated,,Twins,North
+16,Gavião VIII,650216,8836814,Rectangular,No,6,Elongated,,No,
+17,Independência,655462,8878437,Irregular,Yes,,,,No,North/South
+18,Karina,658805,8882164,Circular,Yes,11,Elongated and square,,No,North/South
+19,Lidar,676417,8906822,Irregular,Yes,3,,,No,
+20,Montículos Plácido,677412,8868019,Circular,No,20,Elongated,,No,East/West
+21,Nakahara 79,698560,8879231,Circular,No,,,,No,North/South
+22,Nakahara 88 II,673493,8852425,Rectangular,No,8,Elongated and square,,No,North/South
+23,Nakahara 104,657597,8857397,Rectangular,No,8,Elongated,L,No,East/West
+24,Nakahara 136,590803,8853516,Rectangular,No,10,Elongated and square,,No,
+25,Nakahara 166,649418,8837242,Rectangular,No,9,Elongated,L,No,North/South
+26,Nakahara 174,656854,8861015,Rectangular,No,7,Elongated,L,No,North/South
+27,Nakahara 177,659686,8871460,Circular,No,7,Elongated,,No,South/East
+28,Nakahara 180,665065,8893773,Irregular,No,,,,No,North
+29,Nakahara 195 II,702868,8922127,Irregular,No,,,Twins,North/South
+30,Nakahara 195 III,703926,8922561,Irregular,No,,,Twins,North/South
+31,Nakahara AC 207,650843,8901952,Irregular,No,,,,No,
+32,Nakahara AC 209,659674,8916810,Irregular,No,,,,No,
+33,Nakahara 223,464778,8815609,Circular,No,,,,No,
+34,Nakahara 225,648998,8831007,Rectangular,No,,,,No,North
+35,Nakahara 226,659757,8847511,Irregular,No,3,Elongated,,No,North/South
+36,Nakahara 227,665579,8861886,Irregular,No,,,,No,
+37,Nakahara 228,663813,8888556,Circular,No,8,Elongated,L,Twins,South
+38,Nakahara 229,686380,8866200,Circular,No,9,,,No,
+39,Nakahara 230 I,671748,8896379,Circular,No,10,Elongated,,Twins,North/South
+40,Nakahara 230 II,672121,8896351,Circular,No,9,Elongated,L,Twins,North/South
+41,Peter 1,680162,8908938,Irregular,No,6,Elongated,L,No,Noroeste
+42,Peter 2,688398,8913104,Circular,No,9,Elongated,,No,Noroeste/sudeste
+43,Peter 3,705294,8923462,Irregular,No,,,,No,
+44,Ramal Nabor Junior I,701011,8902345,Circular,,5,,L,No,North/South
+45,Sanna,672735,8906845,Rectangular,Yes,7,Elongated,L,No,South
+46,Sol do Alceu,441809,8793705,Circular,No,4,,,No,
+47,Sol do Iquiri,675577,8900386,Circular,No,16,Elongated and square,L,No,East/West
+48,Sol de Campinas,685329,8887733,Circular,No,15,Elongated,,No,North
+49,Sol de Maio,674441,8893856,Circular,No,17,,,No,North
+50,Sol do Nakahara I,663896,8888254,Circular,No,11,Elongated,L,Twins,North/South
+51,Sol do Nakahara II,646957,8845072,Circular,No,,Elongated,,No,

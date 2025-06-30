@@ -4,7 +4,7 @@
 
 [This is my submission for OpenAI's City of Z competition](https://openai.com/openai-to-z-challenge/)
 
-If you wish to read a comprehensive writeup, go here: https://city-of-z.com/paper.pdf
+If you wish to read a comprehensive writeup, [go here](https://www.kaggle.com/competitions/openai-to-z-challenge/writeups/the-adventures-of-indy)
 
 This repo contains the code and instructions to replicate the data sources I used and run the evals.
 
